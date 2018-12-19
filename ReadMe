@@ -1,0 +1,12 @@
+#CGI python
+
+#At first, you need to install 'requests module of python'
+#sudo pip install requests
+#CGI data from CGI
+#https://www.cancergenomeinterpreter.org/biomarkers
+
+#Input : Cancer Biomarkers(CGI)
+#Output : Parsed table
+#Execute : python CGI.py
+
+#by BioinformaticsAndMe

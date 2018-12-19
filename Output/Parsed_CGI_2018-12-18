@@ -1,0 +1,1443 @@
+Chromosome	Position	G_change	P_change	Exon_order	Gene	Transcript	Disease	Drug	Drug_status	Evidence
+chr14	105243048	G>T	Q79K	exon_3	AKT1	ENST00000554581	Cutaneous melanoma	[]		Case report
+chr14	105246551	C>T	E17K	exon_2	AKT1	ENST00000554581	Cutaneous melanoma	[]		Case report
+chr9	133748283	C>T	T315I	exon_6	ABL1	ENST00000318560	Any cancer type	Axitinib		Pre-clinical
+chr9	133748282	A>G	T315A	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133748288	T>C	F317L	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133748288	T>G	F317V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133748288	T>A	F317I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133748289	T>G	F317C	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133738357	T>C	Y253H	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133738363	G>A	E255K	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133738364	A>T	E255V	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133748414	T>G	F359V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133748415	T>G	F359C	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+chr9	133748414	T>A	F359I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	NCCN guidelines
+					ARAF		Colorectal adenocarcinoma	[]		Case report
+chr9	133747588	G>C	V299L	exon_5	ABL1	ENST00000318560	Any cancer type	Cabozantinib		Pre-clinical
+chr9	133747588	G>C	V299L	exon_5	ABL1	ENST00000318560	Any cancer type	Crizotinib		Pre-clinical
+chr9	133748414	T>G	F359V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	NCCN guidelines
+chr9	133748415	T>G	F359C	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	NCCN guidelines
+chr9	133748414	T>A	F359I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	NCCN guidelines
+chr9	133738357	T>C	Y253H	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	NCCN guidelines
+chr9	133738363	G>A	E255K	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	NCCN guidelines
+chr9	133738364	A>T	E255V	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	NCCN guidelines
+					ARAF		Colorectal adenocarcinoma	[]		Case report
+chr9	133747588	G>C	V299L	exon_5	ABL1	ENST00000318560	Any cancer type	Foretinib 		Pre-clinical
+					B2M		Cutaneous melanoma	[]		Case report
+chr9	133748282	A>G	T315A	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	NCCN guidelines
+chr9	133748288	T>C	F317L	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	NCCN guidelines
+chr9	133748288	T>G	F317V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	NCCN guidelines
+chr9	133748288	T>A	F317I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	NCCN guidelines
+chr9	133748289	T>G	F317C	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	NCCN guidelines
+chr9	133747588	G>C	V299L	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	NCCN guidelines
+chr9	133748283	C>T	T315I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia;Acute lymphoblastic leukemia	Ponatinib	Approved	FDA guidelines
+chr9	133748283	C>T	T315I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Ponatinib	Approved	NCCN guidelines
+chr9	133747588	G>C	V299L	exon_5	ABL1	ENST00000318560	Any cancer type	Vandetanib		Pre-clinical
+chr14	105246551	C>T	E17K	exon_2	AKT1	ENST00000554581	Any cancer type	[]	Clinical Trials	Pre-clinical
+chr14	105246551	C>T	E17K	exon_2	AKT1	ENST00000554581	Any cancer type	[]		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Lung adenocarcinoma	[]		Case report
+chr7	140481402	C>G	G469A	exon_11	BRAF	ENST00000288602	Lung adenocarcinoma	[]		Case report
+chr14	105246551	C>T	E17K	exon_2	AKT1	ENST00000554581	Any cancer type	[]	Clinical Trials	Early trials
+chr14	105246551	C>T	E17K	exon_2	AKT1	ENST00000554581	Head an neck squamous	[]		Case report
+chr14	105239908	G>A	H238Y	exon_8	AKT1	ENST00000554581	Fibrous histiocytoma	Everolimus		Case report
+chr14	105246551	C>T	E17K	exon_2	AKT1	ENST00000554581	Endometrium	Tensirolimus		Early trials
+chr2	29443697	A>G	F1174L	exon_23	ALK	ENST00000389048	Lung adenocarcinoma	[]		Pre-clinical
+chr2	29416730	T>A	E1408V	exon_29	ALK	ENST00000389048	Lung adenocarcinoma	Brigatinib		Case report
+chr2	29443631	G>T	L1196M	exon_23	ALK	ENST00000389048	Lung adenocarcinoma	Brigatinib		Case report
+					ALK		Lung adenocarcinoma	Ceritinib		FDA guidelines
+					CTNNB1		Colorectal adenocarcinoma	[]		Pre-clinical
+chr2	29443631	G>T	L1196M	exon_23	ALK	ENST00000389048	Lung adenocarcinoma	Ceritinib		FDA guidelines
+chr2	29443600	G>T	S1206Y	exon_23	ALK	ENST00000389048	Lung adenocarcinoma	Ceritinib		FDA guidelines
+chr2	29432682	C>G	G1269A	exon_25	ALK	ENST00000389048	Lung adenocarcinoma	Ceritinib		FDA guidelines
+chr2	29445213	A>G	I1171T	exon_22	ALK	ENST00000389048	Lung adenocarcinoma	Ceritinib		FDA guidelines
+					EGFR		Glioma	[]		Early trials
+					EGFR		Lung	[]		Late trials
+chr7	55242511	G>T	D761Y	exon_19	EGFR	ENST00000275493	Non-small cell lung	[]		Case report
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Non-small cell lung	[]		Late trials
+					EGFR		Glioma	[]		Early trials
+chr2	29455235	A>G	F856S	exon_15	ALK	ENST00000389048	Acute myeloid leukemia	Crizotinib		Pre-clinical
+chr2	29754892	G>T	A348D	exon_4	ALK	ENST00000389048	Acute myeloid leukemia	Crizotinib		Pre-clinical
+chr2	29443625	G>A	L1198F	exon_23	ALK	ENST00000389048	Lung adenocarcinoma	Crizotinib		Case report
+chr2	29432664	C>T	R1275Q	exon_25	ALK	ENST00000389048	Glioma	Crizotinib		Pre-clinical
+chr2	29445450	C>G	G1128A	exon_21	ALK	ENST00000389048	Glioma	Crizotinib		Pre-clinical
+chr2	29445213	A>T	I1171N	exon_22	ALK	ENST00000389048	Glioma	Crizotinib		Pre-clinical
+chr2	29443642	C>G	R1192P	exon_23	ALK	ENST00000389048	Glioma	Crizotinib		Pre-clinical
+chr2	29436859	A>C	F1245C	exon_24	ALK	ENST00000389048	Glioma	Crizotinib		Pre-clinical
+chr2	29445258	C>T	C1156Y	exon_22	ALK	ENST00000389048	Lung adenocarcinoma	Lorlatinib		Pre-clinical
+					APC		Colorectal adenocarcinoma	[]		Pre-clinical
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Non-small cell lung	[]		Late trials
+					EGFR		Glioma	[]		Early trials
+					FBXW7		Any cancer type	[]		Pre-clinical
+chrX	47426121	C>G	S214C	exon_7	ARAF	ENST00000377045	Lung adenocarcinoma	Sorafenib	FDA approved	Case report
+					ARID1A		Any cancer type	[]		Pre-clinical
+					ARID1A		Ovary	[]		Pre-clinical
+					ARID1A		Any cancer type	[]		Pre-clinical
+chr4	1807494	G>A	V555M	exon_13	FGFR3	ENST00000440486	Myeloma	[]		Pre-clinical
+					ATM		Colorectal adenocarcinoma	[]		Case report
+					ATM		Lymphoma	[]		Pre-clinical
+					ATM		Stomach	[]		Early trials
+					ATM		Bladder	Cisplatin	Approved	Early trials
+					ATM		Stomach;Prostate adenocarcinoma	Olaparib		Early trials
+					ATM		Glioma	Temozolomide		Pre-clinical
+					ATR		Ovary;Any cancer type	Olaparib	Approved	Pre-clinical
+					ATR		Glioma	Temozolomide		Pre-clinical
+					BAP1		Mesothelioma	[]		Pre-clinical
+					BAP1		Cutaneous melanoma	[]		Pre-clinical
+					BAP1		Renal;Any cancer type	[]		Pre-clinical
+					BCOR		Stomach	Enzastaurin		Pre-clinical
+					JAK1		Colorectal adenocarcinoma	[]		Case report
+					JAK1		Cutaneous melanoma	[]		Case report
+					JAK2		Cutaneous melanoma	[]		Case report
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	[]		Pre-clinical
+					BRAF		Colorectal adenocarcinoma	[]		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	[]		Pre-clinical
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Thyroid	[]		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	[]		Pre-clinical
+chr7	140453145	A>C	L597R	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	[]		Case report
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Glioma	[]		Pre-clinical
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Ovary	[]		Case report
+					KRAS		Pancreas	[]		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	[]		Pre-clinical
+chr7	140481402	C>G	G469A	exon_11	BRAF	ENST00000288602	Head an neck squamous	[]		Case report
+chr7	140477854	A>C	L485W	exon_12	BRAF	ENST00000288602	Billiary tract	[]		Case report
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Lung adenocarcinoma	[]		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Thyroid	[]		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Ovary	[]		Pre-clinical
+					BRAF		Any cancer type	[]		Pre-clinical
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	[]		Early trials
+chr7	140453133	T>C	K601R	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	[Trametinib]		Case report
+chr7	140453145	A>C	L597R	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	[Trametinib]		Case report
+chr7	140453136	AC>CT	V600R	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	[Trametinib]		Case report
+chr12	25398281	C>T	G13D	exon_2	KRAS	ENST00000256078	Colorectal adenocarcinoma	Cetuximab		Late trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Lung adenocarcinoma;Thyroid	Dabrafenib		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Non-small cell lung	Dabrafenib		NCCN guidelines
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Dabrafenib	Approved	FDA guidelines
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Gastrointestinal stromal	Dabrafenib		Case report
+chr7	140453136	AC>CT	V600R	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Dabrafenib		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Colorectal adenocarcinoma	Dabrafenib;Trametinib		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Neuroendocrine	Dabrafenib;Trametinib		Case report
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Lung adenocarcinoma	Dabrafenib;Trametinib		FDA guidelines
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Dabrafenib;Trametinib	Approved	FDA guidelines
+chr7	140453136	AC>TT	V600K	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Dabrafenib;Trametinib	Approved	FDA guidelines
+chr7	140481411	C>A	G466V	exon_11	BRAF	ENST00000288602	Lung adenocarcinoma	Dasatinib		Pre-clinical
+chr7	140481393	T>C	Y472C	exon_11	BRAF	ENST00000288602	Lung adenocarcinoma	Dasatinib		Case report
+					BRAF		Colorectal adenocarcinoma	Irinotecan;Vemurafenib;Cetuximab		Early trials
+					KRAS		Lung	Selumetinib		Early trials
+					BRAF		Colorectal adenocarcinoma	Panitumumab;Dabrafenib;BYL719	Approved; Approved;Clinical Trials	Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Colorectal adenocarcinoma	Panitumumab;Dabrafenib;Trametinib	Approved; Approved;Clinical Trials	Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Malignant astrocytoma	PLX4720		Pre-clinical
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Pediatric glioma	Selumetinib	Clinical Trials	Early trials
+chr7	140453154	T>C	D594G	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Sorafenib		Pre-clinical
+chr7	140481402	C>T	G469E	exon_11	BRAF	ENST00000288602	Cutaneous melanoma	Sorafenib		Pre-clinical
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Trametinib	Approved	FDA guidelines
+chr7	140453136	AC>TT	V600K	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Trametinib	Approved	FDA guidelines
+					NRAS		Colorectal adenocarcinoma	Cetuximab	Approved	NCCN guidelines
+chr7	140453135	CA>GT	V600D	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Vemurafenib	Approved	NCCN guidelines
+chr7	140453136	AC>TT	V600K	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Vemurafenib	Approved	NCCN guidelines
+chr7	140453137	C>T	V600M	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Vemurafenib	Approved	NCCN guidelines
+chr7	140453136	A>C	V600G	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Vemurafenib	Approved	NCCN guidelines
+chr7	140453136	AC>CT	V600R	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Vemurafenib	Approved	NCCN guidelines
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Lung adenocarcinoma;Hairy-Cell leukemia;Myeloma	Vemurafenib	Approved	Case report
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Malignant astrocytoma	Vemurafenib	Approved	Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Vemurafenib	Approved	FDA guidelines
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Thyroid carcinoma	Vemurafenib	Approved	Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Non-small cell lung;Lagerhans cell histiocytosis;Erdheim-Chester histiocytosis	Vemurafenib	Approved	NCCN guidelines
+chr7	140453135	CA>GT	V600D	exon_15	BRAF	ENST00000288602	Non-small cell lung;Lagerhans cell histiocytosis;Erdheim-Chester histiocytosis	Vemurafenib	Approved	NCCN guidelines
+chr7	140453136	AC>TT	V600K	exon_15	BRAF	ENST00000288602	Non-small cell lung;Lagerhans cell histiocytosis;Erdheim-Chester histiocytosis	Vemurafenib	Approved	NCCN guidelines
+chr7	140453137	C>T	V600M	exon_15	BRAF	ENST00000288602	Non-small cell lung;Lagerhans cell histiocytosis;Erdheim-Chester histiocytosis	Vemurafenib	Approved	NCCN guidelines
+chr7	140453136	A>C	V600G	exon_15	BRAF	ENST00000288602	Non-small cell lung;Lagerhans cell histiocytosis;Erdheim-Chester histiocytosis	Vemurafenib	Approved	NCCN guidelines
+chr7	140453136	AC>CT	V600R	exon_15	BRAF	ENST00000288602	Non-small cell lung;Lagerhans cell histiocytosis;Erdheim-Chester histiocytosis	Vemurafenib	Approved	NCCN guidelines
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Vemurafenib;Cobimetinib	Approved	FDA guidelines
+chr7	140453136	AC>TT	V600K	exon_15	BRAF	ENST00000288602	Cutaneous melanoma	Vemurafenib;Cobimetinib	Approved	FDA guidelines
+					BRCA1		Ovary	[]		Early trials
+					BRCA1		Pancreas	[]		Case report
+					BRCA1		Any cancer type	[]		Case report
+					BRCA1		Breast adenocarcinoma	[Olaparib]		Early trials
+					BRCA1		Prostate adenocarcinoma	Olaparib		Early trials
+					BRCA1		Ovary	Olaparib	Approved	FDA guidelines
+					BRCA1		Breast adenocarcinoma	Platinum Agent		Early trials
+					BRCA1		Ovary	Platinum Agent		Late trials
+					BRCA1		Ovary	Rucaparib		FDA guidelines
+					BRCA1		Breast adenocarcinoma	Veliparib;Cisplatin		Early trials
+					BRCA2		Ovary	[]		Early trials
+					BRCA2		Cutaneous melanoma	[]		Case report
+					BRCA2		Breast adenocarcinoma	[Olaparib]	Approved	Early trials
+					BRCA2		Prostate adenocarcinoma	Olaparib	Approved	Early trials
+					BRCA2		Ovary	Olaparib	Approved	FDA guidelines
+					BRCA2		Breast adenocarcinoma	Platinum Agent		Early trials
+					BRCA2		Ovary	Platinum Agent		Late trials
+					BRCA2		Pancreas	Platinum Agent		Case report
+					BRCA2		Ovary	Rucaparib		FDA guidelines
+					BRCA2		Breast adenocarcinoma	Veliparib;Cisplatin		Early trials
+chr11	119148891	T>C	Y371H	exon_8	CBL	ENST00000264033	Myelodisplasic proliferative syndrome	[]		Pre-clinical
+chr11	119148930	T>C	C384R	exon_8	CBL	ENST00000264033	Myelodisplasic proliferative syndrome	[]		Pre-clinical
+chr11	119148891	T>C	Y371H	exon_8	CBL	ENST00000264033	Myelodisplasic proliferative syndrome	Dasatinib		Pre-clinical
+chr11	119148930	T>C	C384R	exon_8	CBL	ENST00000264033	Myelodisplasic proliferative syndrome	Dasatinib		Pre-clinical
+					KRAS		Colorectal adenocarcinoma	Cetuximab	Approved	FDA guidelines
+					KRAS		Non-small cell lung	[]		Pre-clinical
+					KRAS		Stomach	[]		Pre-clinical
+					CDH1		Breast adenocarcinoma	Bicalutamide		Pre-clinical
+					CDK12		Ovary	[]		Pre-clinical
+					CDK4		Liposarcoma;Lymphoma;Any cancer type	LEE011	Clinical Trials	Early trials
+					CDK6		Liposarcoma;Lymphoma;Any cancer type	LEE011	Clinical Trials	Early trials
+					CDKN1A		Any cancer type	[]		Pre-clinical
+					CDKN1B		Any cancer type	[]		Pre-clinical
+					CDKN2A		Cutaneous melanoma	[]		Case report
+					CDKN2A		Glioma;Any cancer type	[]		Pre-clinical
+					CDKN2A		Any cancer type	Ilorasertib	Clinical Trials	Early trials
+					CDKN2B		Glioma;Any cancer type	[]		Pre-clinical
+					CDKN2C		Glioma;Any cancer type	[]		Pre-clinical
+					CHEK2		Prostate adenocarcinoma	Olaparib		Early trials
+					MAP2K1		Cutaneous melanoma	[]		Early trials
+					MAP2K1		Cutaneous melanoma	[]		Case report
+					MAP2K1		Colorectal adenocarcinoma	[]		Case report
+					MAP2K1		Any cancer type	[]		Pre-clinical
+chr15	66729163	C>T	P124L	exon_3	MAP2K1	ENST00000307102	Cutaneous melanoma	[]		Case report
+chr15	66727455	G>C	K57N	exon_2	MAP2K1	ENST00000307102	Cutaneous melanoma	[]		Case report
+chr15	66729153	T>A	C121S	exon_3	MAP2K1	ENST00000307102	Cutaneous melanoma	[]		Case report
+chr15	66727451	A>C	Q56P	exon_2	MAP2K1	ENST00000307102	Cutaneous melanoma	[]		Case report
+chr15	66729162	C>T	P124S	exon_3	MAP2K1	ENST00000307102	Cutaneous melanoma	[]		Case report
+chr15	66729163	C>T	P124L	exon_3	MAP2K1	ENST00000307102	Cutaneous melanoma	[]		Case report
+chr5	149441328	A>C	Y571D	exon_12	CSF1R	ENST00000286301	Myelodisplasic proliferative syndrome	Imatinib		Pre-clinical
+					CSF3R		Atypical chronic myeloid leukemia	Dasatinib		Pre-clinical
+chr19	4117541	T>G	Q60P	exon_2	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Case report
+chr3	41266109	C>T	H36Y	exon_3	CTNNB1	ENST00000349496	Endometrium	Everolimus;Letrozole		Early trials
+chr3	41266113	C>G	S37C	exon_3	CTNNB1	ENST00000349496	Endometrium	Everolimus;Letrozole		Early trials
+chr3	41266113	C>A	S37Y	exon_3	CTNNB1	ENST00000349496	Endometrium	Everolimus;Letrozole		Early trials
+chr3	41266098	A>T	D32V	exon_3	CTNNB1	ENST00000349496	Endometrium	Everolimus;Letrozole		Early trials
+chr19	4117617	C>T	V35M	exon_2	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Pre-clinical
+chr19	4117584	G>A	L46F	exon_2	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Pre-clinical
+chr19	4110581	T>C	N126D	exon_3	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Pre-clinical
+chr19	4110584	A>T	C125S	exon_3	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Pre-clinical
+chr1	162745497	A>T	I638F	exon_16	DDR2	ENST00000367922	Lung squamous cell	Dasatinib		Pre-clinical
+chr1	162729630	T>G	L239R	exon_9	DDR2	ENST00000367922	Lung squamous cell	Dasatinib		Pre-clinical
+chr1	162729671	G>T	G253C	exon_9	DDR2	ENST00000367922	Lung squamous cell	Dasatinib		Pre-clinical
+chr1	162748407	G>T	G774V	exon_18	DDR2	ENST00000367922	Lung squamous cell	Dasatinib		Pre-clinical
+chr1	162724415	C>G	L63V	exon_6	DDR2	ENST00000367922	Lung squamous cell	Dasatinib		Pre-clinical
+chr1	162741822	G>A	G505S	exon_14	DDR2	ENST00000367922	Lung squamous cell	Dasatinib		Pre-clinical
+chr1	162748390	T>G	S768R	exon_18	DDR2	ENST00000367922	Lung squamous cell	Dasatinib		Case report
+chr1	162748390	T>G	S768R	exon_18	DDR2	ENST00000367922	Lung squamous cell	Erlotinib		Case report
+					DNMT3A		Acute myeloid leukemia	Daunorubicin	Approved	FDA guidelines
+					DPYD		Any cancer type	Capecitabine	Approved	FDA guidelines
+chr1	97981343	A>C	I560S	exon_13	DPYD	ENST00000370192	Any cancer type	Capecitabine	Approved	FDA guidelines
+chr1	97547947	T>A	D949V	exon_22	DPYD	ENST00000370192	Any cancer type	Capecitabine	Approved	FDA guidelines
+					DPYD		Any cancer type	Flourouracil	Approved	FDA guidelines
+chr1	97981343	A>C	I560S	exon_13	DPYD	ENST00000370192	Any cancer type	Flourouracil	Approved	FDA guidelines
+chr1	97547947	T>A	D949V	exon_22	DPYD	ENST00000370192	Any cancer type	Flourouracil	Approved	FDA guidelines
+					DPYD		Any cancer type	Tegafur	Approved	CPIC guidelines
+chr1	97981343	A>C	I560S	exon_13	DPYD	ENST00000370192	Any cancer type	Tegafur	Approved	CPIC guidelines
+chr1	97547947	T>A	D949V	exon_22	DPYD	ENST00000370192	Any cancer type	Tegafur	Approved	CPIC guidelines
+chr19	4117541	T>G	Q60P	exon_2	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Case report
+chr19	4117617	C>T	V35M	exon_2	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Pre-clinical
+chr19	4117584	G>A	L46F	exon_2	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Pre-clinical
+chr19	4110581	T>C	N126D	exon_3	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Pre-clinical
+chr19	4110584	A>T	C125S	exon_3	MAP2K2	ENST00000262948	Cutaneous melanoma	[]		Pre-clinical
+chr7	116423408	A>T	D1246V	exon_19	MET	ENST00000318493	Lung adenocarcinoma	[]		Case report
+					NF1		Neuroblastoma	[]		Pre-clinical
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Lung	[]		Early trials
+					EGFR		Lung	[]		Late trials
+chr7	55259515	T>G	L858R	exon_21	EGFR	ENST00000275493	Lung	[]		Late trials
+chr7	55259524	T>A	L861Q	exon_21	EGFR	ENST00000275493	Lung	[]		Late trials
+chr7	55241708	G>C	G719A	exon_18	EGFR	ENST00000275493	Lung	[]		Late trials
+chr7	55241707	G>A	G719S	exon_18	EGFR	ENST00000275493	Lung	[]		Late trials
+chr7	55241707	G>T	G719C	exon_18	EGFR	ENST00000275493	Lung	[]		Late trials
+chr7	55241708	G>A	G719D	exon_18	EGFR	ENST00000275493	Lung	[]		Late trials
+chr7	55242470	T>C	L747S	exon_19	EGFR	ENST00000275493	Lung	[]		Late trials
+chr7	55249005	G>T	S768I	exon_20	EGFR	ENST00000275493	Lung	[]		Late trials
+chr7	55259524	T>C	L861P	exon_21	EGFR	ENST00000275493	Lung	[]		Late trials
+chr7	55259524	T>G	L861R	exon_21	EGFR	ENST00000275493	Lung	[]		Late trials
+					EGFR		Lung	[]		Early trials
+					EGFR		Lung	[]		Case report
+chr7	55259515	T>G	L858R	exon_21	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55259524	T>A	L861Q	exon_21	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55241708	G>C	G719A	exon_18	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55241707	G>A	G719S	exon_18	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55241707	G>T	G719C	exon_18	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55241708	G>A	G719D	exon_18	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55242470	T>C	L747S	exon_19	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55249005	G>T	S768I	exon_20	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55259524	T>C	L861P	exon_21	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55259524	T>G	L861R	exon_21	EGFR	ENST00000275493	Lung	[]		Early trials
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Lung	[]		Early trials
+					EGFR		Lung	[]		Pre-clinical
+chr7	55259515	T>G	L858R	exon_21	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55259524	T>A	L861Q	exon_21	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55241708	G>C	G719A	exon_18	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55241707	G>A	G719S	exon_18	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55241707	G>T	G719C	exon_18	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55241708	G>A	G719D	exon_18	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55242470	T>C	L747S	exon_19	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55249005	G>T	S768I	exon_20	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55259524	T>C	L861P	exon_21	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55259524	T>G	L861R	exon_21	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Lung	[]		Pre-clinical
+chr7	55228009	C>G	S492R	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	[]		Early trials
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Non-small cell lung	[Rociletinib,HM61713]		Late trials
+					EGFR		Non-small cell lung	Afatinib	Approved	FDA guidelines
+					EGFR		Lung	Afatinib		Late trials
+chr7	55259515	T>G	L858R	exon_21	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55259524	T>A	L861Q	exon_21	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55241708	G>C	G719A	exon_18	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55241707	G>A	G719S	exon_18	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55241707	G>T	G719C	exon_18	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55241708	G>A	G719D	exon_18	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55242470	T>C	L747S	exon_19	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55249005	G>T	S768I	exon_20	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55259524	T>C	L861P	exon_21	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55259524	T>G	L861R	exon_21	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	FDA guidelines
+chr7	55259524	T>A	L861Q	exon_21	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	NCCN guidelines
+chr7	55241708	G>C	G719A	exon_18	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	NCCN guidelines
+chr7	55241707	G>A	G719S	exon_18	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	NCCN guidelines
+chr7	55241707	G>T	G719C	exon_18	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	NCCN guidelines
+chr7	55241708	G>A	G719D	exon_18	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	NCCN guidelines
+chr7	55242470	T>C	L747S	exon_19	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	NCCN guidelines
+chr7	55249005	G>T	S768I	exon_20	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	NCCN guidelines
+chr7	55259524	T>C	L861P	exon_21	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	NCCN guidelines
+chr7	55259524	T>G	L861R	exon_21	EGFR	ENST00000275493	Non-small cell lung	Afatinib	Approved	NCCN guidelines
+					EGFR		Lung	Afatinib;Cetuximab		Early trials
+chr7	55259515	T>G	L858R	exon_21	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55259524	T>A	L861Q	exon_21	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55241708	G>C	G719A	exon_18	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55241707	G>A	G719S	exon_18	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55241707	G>T	G719C	exon_18	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55241708	G>A	G719D	exon_18	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55242470	T>C	L747S	exon_19	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55249005	G>T	S768I	exon_20	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55259524	T>C	L861P	exon_21	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55259524	T>G	L861R	exon_21	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Lung	Afatinib;Cetuximab		Early trials
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Lung	Afatinib;Nimotuzumab		Early trials
+chr7	55231430	C>T	P546S	exon_14	EGFR	ENST00000275493	Head an neck	Cetuximab		Case report
+chr7	55242487	C>T	P753S	exon_19	EGFR	ENST00000275493	Head an neck	Cetuximab;Sirolimus		Case report
+					EGFR		Non-small cell lung	Erlotinib	Approved	FDA guidelines
+					EGFR		Lung	Erlotinib	Approved	Early trials
+					EGFR		Lung	Erlotinib		Case report
+chr7	55221822	C>T	A289V	exon_7	EGFR	ENST00000275493	Glioma	Erlotinib	Approved	Pre-clinical
+chr7	55211080	G>A	R108K	exon_3	EGFR	ENST00000275493	Glioma	Erlotinib	Approved	Pre-clinical
+chr7	55233043	G>T	G598V	exon_15	EGFR	ENST00000275493	Glioma	Erlotinib	Approved	Pre-clinical
+chr7	55221743	A>C	T263P	exon_7	EGFR	ENST00000275493	Glioma	Erlotinib	Approved	Pre-clinical
+					NRAS		Cutaneous melanoma	[]		Early trials
+chr7	55242500	A>G	K757R	exon_19	EGFR	ENST00000275493	Lung	Erlotinib		Case report
+chr7	55242467	A>G	E746G	exon_19	EGFR	ENST00000275493	Lung	Erlotinib		Case report
+chr7	55259515	T>G	L858R	exon_21	EGFR	ENST00000275493	Non-small cell lung	Erlotinib	Approved	FDA guidelines
+					EGFR		Non-small cell lung	Erlotinib	Approved	NCCN guidelines
+chr3	178936091	G>T	E545*	exon_10	PIK3CA	ENST00000263967	Cutaneous melanoma	[]		Case report
+					EGFR		Non-small cell lung	Gefitinib	Approved	FDA guidelines
+					PIK3CA		Lung	[]		Early trials
+chr7	55259515	T>G	L858R	exon_21	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55259524	T>A	L861Q	exon_21	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55241708	G>C	G719A	exon_18	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55241707	G>A	G719S	exon_18	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55241707	G>T	G719C	exon_18	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55241708	G>A	G719D	exon_18	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55242470	T>C	L747S	exon_19	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55249005	G>T	S768I	exon_20	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55259524	T>C	L861P	exon_21	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55259524	T>G	L861R	exon_21	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	FDA guidelines
+chr7	55259524	T>A	L861Q	exon_21	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	NCCN guidelines
+chr7	55241708	G>C	G719A	exon_18	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	NCCN guidelines
+chr7	55241707	G>A	G719S	exon_18	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	NCCN guidelines
+chr7	55241707	G>T	G719C	exon_18	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	NCCN guidelines
+chr7	55241708	G>A	G719D	exon_18	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	NCCN guidelines
+chr7	55242470	T>C	L747S	exon_19	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	NCCN guidelines
+chr7	55249005	G>T	S768I	exon_20	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	NCCN guidelines
+chr7	55259524	T>C	L861P	exon_21	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	NCCN guidelines
+chr7	55259524	T>G	L861R	exon_21	EGFR	ENST00000275493	Non-small cell lung	Gefitinib	Approved	NCCN guidelines
+chr3	138374245	C>A	D1067Y	exon_23	PIK3CB	ENST00000477593	Breast adenocarcinoma	[]		Case report
+chr7	55241620	G>A	E690K	exon_18	EGFR	ENST00000275493	Endometrium	Lapatinib	Approved	Case report
+					EGFR		Lung	Osimertinib	Approved	Early trials
+					EGFR		Lung	Osimertinib		Pre-clinical
+					PTEN		Colorectal adenocarcinoma	[]		Late trials
+					PTEN		Endometrium	[]		Early trials
+chr7	55259515	T>G	L858R	exon_21	EGFR	ENST00000275493	Lung	Osimertinib	Approved	Early trials
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Non-small cell lung	Osimertinib	Approved	FDA guidelines
+chr7	55228009	C>G	S492R	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	Panitumumab		Case report
+					EGFR		Glioblastoma	Rindopepimut	Clinical Trials	Late trials
+chr1	16464489	C>T	G391R	exon_5	EPHA2	ENST00000358432	Lung squamous cell	[]		Pre-clinical
+chr1	16464489	C>T	G391R	exon_5	EPHA2	ENST00000358432	Lung squamous cell	[]		Pre-clinical
+chr1	16464489	C>T	G391R	exon_5	EPHA2	ENST00000358432	Lung squamous cell	Dasatinib		Pre-clinical
+chr1	16464489	C>T	G391R	exon_5	EPHA2	ENST00000358432	Lung squamous cell	Dasatinib		Pre-clinical
+					ERBB2		Lung adenocarcinoma	[Afatinib,Lapatinib,Neratinib]		Early trials
+					ERBB2		Lung adenocarcinoma	[Trastuzumab]		Early trials
+					ERBB2		Lung	Ado-Trastuzumab Emtansine		Early trials
+chr17	37879601	TT>AG	V659E	exon_17	ERBB2	ENST00000269571	Lung	Ado-Trastuzumab Emtansine		Early trials
+chr17	37868208	C>T	S310F	exon_8	ERBB2	ENST00000269571	Lung	Ado-Trastuzumab Emtansine		Early trials
+					ERBB2		Lung adenocarcinoma	Afatinib		Early trials
+chr17	37881064	C>T	T798I	exon_20	ERBB2	ENST00000269571	Breast adenocarcinoma	Afatinib		Pre-clinical
+					ERBB2		Non-small cell lung	Dacomitinib		Early trials
+chr17	37880261	G>T	D769Y	exon_19	ERBB2	ENST00000269571	Breast adenocarcinoma	Lapatinib		Pre-clinical
+chr17	37880261	G>C	D769H	exon_19	ERBB2	ENST00000269571	Breast adenocarcinoma	Lapatinib		Pre-clinical
+chr17	37881616	C>T	R896C	exon_22	ERBB2	ENST00000269571	Breast adenocarcinoma	Lapatinib		Pre-clinical
+chr17	37881000	G>C	V777L	exon_20	ERBB2	ENST00000269571	Breast adenocarcinoma	Lapatinib		Pre-clinical
+chr17	37881332	G>A	V842I	exon_21	ERBB2	ENST00000269571	Breast adenocarcinoma	Lapatinib		Pre-clinical
+chr17	37868205	G>C	G309A	exon_8	ERBB2	ENST00000269571	Breast adenocarcinoma	Lapatinib		Pre-clinical
+chr17	37879601	TT>AG	V659E	exon_17	ERBB2	ENST00000269571	Breast adenocarcinoma;Lung adenocarcinoma	Lapatinib		Case report
+					ERBB2		Lung adenocarcinoma	Lapatinib		Early trials
+					ERBB2		Breast adenocarcinoma	Neratinib		Pre-clinical
+					ERBB2		Lung adenocarcinoma	Neratinib		Early trials
+chr17	37880213	A>G	K753E	exon_19	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Pre-clinical
+chr17	37880220	T>C	L755S	exon_19	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Pre-clinical
+chr17	37868205	G>C	G309A	exon_8	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Pre-clinical
+chr17	37880261	G>T	D769Y	exon_19	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Pre-clinical
+chr17	37880261	G>C	D769H	exon_19	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Pre-clinical
+chr17	37881616	C>T	R896C	exon_22	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Pre-clinical
+chr17	37881000	G>C	V777L	exon_20	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Pre-clinical
+chr17	37881332	G>A	V842I	exon_21	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Pre-clinical
+					ERBB2		Lung adenocarcinoma	Neratinib		Early trials
+chr17	37881414	T>G	L869R	exon_21	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Case report
+					ERBB2		Any cancer type	Neratinib		Early trials
+					ERBB2		Any cancer type	Neratinib		Early trials
+					ERBB2		Lung adenocarcinoma	Tensirolimus		Early trials
+					STK11		Lung	[]		Pre-clinical
+chr17	37880261	G>T	D769Y	exon_19	ERBB2	ENST00000269571	Breast adenocarcinoma;Any cancer type	Trastuzumab		Pre-clinical
+chr17	37880261	G>C	D769H	exon_19	ERBB2	ENST00000269571	Breast adenocarcinoma;Any cancer type	Trastuzumab		Pre-clinical
+chr17	37881616	C>T	R896C	exon_22	ERBB2	ENST00000269571	Breast adenocarcinoma;Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868205	G>A	G309E	exon_8	ERBB2	ENST00000269571	Breast adenocarcinoma;Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868208	C>T	S310F	exon_8	ERBB2	ENST00000269571	Breast adenocarcinoma;Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868208	C>A	S310Y	exon_8	ERBB2	ENST00000269571	Breast adenocarcinoma;Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868210	T>C	C311R	exon_8	ERBB2	ENST00000269571	Breast adenocarcinoma;Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868205	G>A	G309E	exon_8	ERBB2	ENST00000269571	Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868208	C>T	S310F	exon_8	ERBB2	ENST00000269571	Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868208	C>A	S310Y	exon_8	ERBB2	ENST00000269571	Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868210	T>C	C311R	exon_8	ERBB2	ENST00000269571	Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868241	A>G	E321G	exon_8	ERBB2	ENST00000269571	Any cancer type	Trastuzumab		Pre-clinical
+chr17	37868279	T>A	C334S	exon_8	ERBB2	ENST00000269571	Any cancer type	Trastuzumab		Pre-clinical
+chr17	37880997	GG>CT	G776L	exon_20	ERBB2	ENST00000269571	Lung adenocarcinoma	Trastuzumab		Case report
+					ERBB2		Lung adenocarcinoma	Trastuzumab		Early trials
+chr12	56481857	C>A	P262H	exon_7	ERBB3	ENST00000267101	Any cancer type	[]		Pre-clinical
+chr12	56481922	G>A	G284R	exon_7	ERBB3	ENST00000267101	Any cancer type	[]		Pre-clinical
+chr12	56481857	C>A	P262H	exon_7	ERBB3	ENST00000267101	Any cancer type	[]		Pre-clinical
+chr12	56481922	G>A	G284R	exon_7	ERBB3	ENST00000267101	Any cancer type	[]		Pre-clinical
+chr12	56490980	A>G	Q809R	exon_20	ERBB3	ENST00000267101	Any cancer type	[]		Pre-clinical
+chr12	56481922	G>A	G284R	exon_7	ERBB3	ENST00000267101	Bladder	Afatinib		Case report
+chr12	56478851	C>G	R103G	exon_3	ERBB3	ENST00000267101	Bladder	Afatinib		Case report
+chr12	56481922	G>A	G284R	exon_7	ERBB3	ENST00000267101	Bladder	Afatinib		Case report
+chr12	56478854	G>A	V104M	exon_3	ERBB3	ENST00000267101	Bladder	Afatinib		Case report
+chr12	56478851	C>G	R103G	exon_3	ERBB3	ENST00000267101	Bladder	Afatinib		Case report
+chr12	56481857	C>A	P262H	exon_7	ERBB3	ENST00000267101	Any cancer type	Lapatinib		Pre-clinical
+chr12	56481922	G>A	G284R	exon_7	ERBB3	ENST00000267101	Any cancer type	Lapatinib		Pre-clinical
+chr12	56490980	A>G	Q809R	exon_20	ERBB3	ENST00000267101	Any cancer type	Lapatinib		Pre-clinical
+chr12	56481857	C>A	P262H	exon_7	ERBB3	ENST00000267101	Any cancer type	Pertuzumab		Pre-clinical
+chr12	56481922	G>A	G284R	exon_7	ERBB3	ENST00000267101	Any cancer type	Pertuzumab		Pre-clinical
+chr12	56481857	C>A	P262H	exon_7	ERBB3	ENST00000267101	Any cancer type	Trastuzumab		Pre-clinical
+chr12	56481922	G>A	G284R	exon_7	ERBB3	ENST00000267101	Any cancer type	Trastuzumab		Pre-clinical
+chr12	56490980	A>G	Q809R	exon_20	ERBB3	ENST00000267101	Any cancer type	Trastuzumab		Pre-clinical
+chr2	212578308	C>T	E317K	exon_8	ERBB4	ENST00000342788	Cutaneous melanoma	Lapatinib		Pre-clinical
+chr2	212566827	C>T	E452K	exon_12	ERBB4	ENST00000342788	Cutaneous melanoma	Lapatinib		Pre-clinical
+chr2	212537975	G>A	R544W	exon_14	ERBB4	ENST00000342788	Cutaneous melanoma	Lapatinib		Pre-clinical
+chr2	212570064	G>A	R393W	exon_10	ERBB4	ENST00000342788	Cutaneous melanoma	Lapatinib		Pre-clinical
+chr2	212295699	C>T	E872K	exon_21	ERBB4	ENST00000342788	Cutaneous melanoma	Lapatinib		Pre-clinical
+					ERCC1		Lung	[]		Pre-clinical
+					ERCC1		Lung	Cisplatin		Pre-clinical
+					TP53		Liposarcoma	[]		Early trials
+					ERCC2		Bladder	Cisplatin		Early trials
+					ERCC4		Ovary	Cisplatin		Pre-clinical
+					ERCC6		Ovary	Cisplatin		Pre-clinical
+					ESR1		Breast adenocarcinoma	[GDC-0810]		Case report
+chr1	156846342	G>A	G595R	exon_14	NTRK1	ENST00000524377	Colorectal adenocarcinoma	[Entrectinib]		Case report
+chr1	156849107	G>T	G667C	exon_15	NTRK1	ENST00000524377	Colorectal adenocarcinoma	[Entrectinib]		Case report
+					ESR1		Breast adenocarcinoma	Fluvestrant		Late trials
+chr2	212426689	TG>CC	H809G	exon_20	ERBB4	ENST00000342788	Breast adenocarcinoma	[Lapatinib]		Case report
+chr9	133748283	C>T	T315I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	[Nilotinib,Dasatinib]	Approved	European LeukemiaNet guidelines
+					EZH2		Lymphoma	[EPZ-005687,EPZ-6438]	Pre-clinical	Pre-clinical
+					FANCA		Prostate adenocarcinoma	Olaparib		Case report
+					FANCC		Bladder	Cisplatin	Approved	Early trials
+					FAT1		Head an neck squamous	[]		Pre-clinical
+					FBXW7		Acute lymphoblastic leukemia	[]		Late trials
+					TP53		Breast adenocarcinoma	Abemaciclib		Early trials
+chrX	66931463	T>A	L702H	exon_4	AR	ENST00000374690	Prostate adenocarcinoma	Abiraterone	Approved	Early trials
+chrX	66943552	A>G	T878A	exon_8	AR	ENST00000374690	Prostate adenocarcinoma	Abiraterone	Approved	Early trials
+					FGFR2		Lung	[]		Pre-clinical
+chr10	123279677	G>C	S252W	exon_7	FGFR2	ENST00000457416	Endometrium	[]		Pre-clinical
+chr10	123258034	A>C	N550K	exon_12	FGFR2	ENST00000457416	Endometrium	[]		Pre-clinical
+chr10	123256219	C>T	V565I	exon_13	FGFR2	ENST00000457416	Endometrium	[]		Pre-clinical
+chr10	123279562	C>A	W290C	exon_7	FGFR2	ENST00000457416	Lung squamous cell	[]		Pre-clinical
+chr10	123278324	G>C	S320C	exon_8	FGFR2	ENST00000457416	Lung squamous cell	[]		Pre-clinical
+chr10	123247514	C>G	K660N	exon_14	FGFR2	ENST00000457416	Lung squamous cell	[]		Pre-clinical
+chr2	29445213	A>G	I1171T	exon_22	ALK	ENST00000389048	Lung adenocarcinoma	Alectinib		Case report
+					FGFR2		Endometrium	Ponatinib		Pre-clinical
+					FGFR3		Bladder	[]		Early trials
+					FGFR3		Myeloma	[]		Pre-clinical
+chr4	1803568	C>G	S249C	exon_7	FGFR3	ENST00000440486	Lung adenocarcinoma	[]		Pre-clinical
+chr4	1808313	G>A	G691R	exon_16	FGFR3	ENST00000440486	Lung adenocarcinoma	[]		Pre-clinical
+chrX	66943549	T>C	F877L	exon_8	AR	ENST00000374690	Prostate adenocarcinoma	Arn-509		Case report
+					FGFR3		Myeloma	Bortezomib		Pre-clinical
+					FGFR4		Rhabdomyosarcoma	[]		Pre-clinical
+					FLCN		Renal	Everolimus		Case report
+chr4	1806099	A>G	Y373C	exon_9	FGFR3	ENST00000440486	Myeloma	Bortezomib		Pre-clinical
+					FLT3		Acute myeloid leukemia	[]		Early trials
+					FLT3		Acute myeloid leukemia	[]		Pre-clinical
+					FLT3		Acute myeloid leukemia	Crenolanib		Pre-clinical
+					FLT3		Acute myeloid leukemia	Lestaurtinib		Case report
+					FLT3		Acute myeloid leukemia	Midostaurin		Case report
+					FLT3		Acute myeloid leukemia	Midostaurin		Pre-clinical
+chr9	133748283	C>T	T315I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Bosutinib	Approved	European LeukemiaNet guidelines
+					FLT3		Acute myeloid leukemia	Quizartinib		Early trials
+					FLT3		Acute myeloid leukemia	Sorafenib		Early trials
+					FLT3		Acute myeloid leukemia	Sorafenib;Azacytidine		Early trials
+					NF1		Plexiform neurofibroma	Cediranib		Early trials
+chr2	29445466	C>T	G1123S	exon_21	ALK	ENST00000389048	Lung adenocarcinoma	Ceritinib		Case report
+chrX	153762634	G>A	S218F	exon_6	G6PD	ENST00000393562	Any cancer type	Dabrafenib	Approved	FDA guidelines
+					GATA3		Breast adenocarcinoma	[]		Pre-clinical
+chr6	117639399	G>T	S1986Y	exon_37	ROS1	ENST00000368508	Lung adenocarcinoma	Ceritinib		Case report
+chr6	117639399	G>A	S1986F	exon_37	ROS1	ENST00000368508	Lung adenocarcinoma	Ceritinib		Case report
+chr19	3118942	A>T	Q209L	exon_5	GNA11	ENST00000078429	Cutaneous melanoma	[]		Pre-clinical
+chr19	3118942	A>C	Q209P	exon_5	GNA11	ENST00000078429	Cutaneous melanoma	[]		Pre-clinical
+chr19	3118942	A>T	Q209L	exon_5	GNA11	ENST00000078429	Cutaneous melanoma	Selumetinib		Early trials
+chr19	3118942	A>C	Q209P	exon_5	GNA11	ENST00000078429	Cutaneous melanoma	Selumetinib		Early trials
+chr19	3118942	A>T	Q209L	exon_5	GNA11	ENST00000078429	Cutaneous melanoma	Vorinostat		Pre-clinical
+chr19	3118942	A>C	Q209P	exon_5	GNA11	ENST00000078429	Cutaneous melanoma	Vorinostat		Pre-clinical
+					GNAQ		Cutaneous melanoma	[]		Pre-clinical
+					GNAQ		Cutaneous melanoma	[]		Pre-clinical
+					GNAQ		Cutaneous melanoma	[]		Pre-clinical
+					GNAQ		Cutaneous melanoma	Selumetinib		Early trials
+					GNAS		Any cancer type	[]		Pre-clinical
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Colorectal adenocarcinoma	Cetuximab		Late trials
+					HRAS		Acute myeloid leukemia	[]		Pre-clinical
+					HRAS		Cervix squamous cell	[]		Pre-clinical
+					HRAS		Cervix	[]		Pre-clinical
+					HRAS		Any cancer type	Tipifarnib		Early trials
+					HRAS		Any cancer type	Tipifarnib	Clinical Trials	Early trials
+					IDH1		Acute myeloid leukemia	[]		Pre-clinical
+					IDH1		Acute myeloid leukemia	[]		Early trials
+					IDH1		Any cancer type	[]		Pre-clinical
+					IDH1		Glioma	AG-120	Clinical Trials	Early trials
+					IDH1		Cholangiocarcinoma	Dasatinib	Clinical Trials	Early trials
+					IDH1		Billiary tract	Dasatinib		Pre-clinical
+					IDH1		Acute myeloid leukemia	Venetoclax		Early trials
+chr15	90631934	CG>TT	R140K	exon_4	IDH2	ENST00000330062	Hematologic malignancies	AG-221	Clinical Trials	Early trials
+chr15	90631838	C>T	R172K	exon_4	IDH2	ENST00000330062	Hematologic malignancies	AG-221	Clinical Trials	Early trials
+					IDH2		Cholangiocarcinoma	Dasatinib	Clinical Trials	Early trials
+					IDH2		Billiary tract	Dasatinib		Pre-clinical
+					IDH2		Acute myeloid leukemia	Venetoclax		Early trials
+chr7	55227924	C>T	S464L	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	Cetuximab	Approved	Pre-clinical
+chr7	55227926	G>A	G465R	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	Cetuximab	Approved	Pre-clinical
+chr7	55228006	A>G	I491M	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	Cetuximab	Approved	Pre-clinical
+chr7	55228009	C>G	S492R	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	Cetuximab		Case report
+chr7	55227926	G>A	G465R	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	Cetuximab		Case report
+chr7	55227884	C>T	R451C	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	Cetuximab		Case report
+chr7	55227933	A>C	K467T	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	Cetuximab		Case report
+					INPP4B		Breast adenocarcinoma	[]		Pre-clinical
+					KRAS		Any cancer type	[]		Pre-clinical
+					KRAS		Endometrium	[]		Pre-clinical
+					JAK1		Acute lymphoblastic leukemia	Ruxolitinib		Pre-clinical
+chr9	5073770	G>T	V617F	exon_14	JAK2	ENST00000381652	Acute myeloid leukemia	[]		Pre-clinical
+					NRAS		Colorectal adenocarcinoma	Panitumumab	Approved	FDA guidelines
+chr9	5073770	G>T	V617F	exon_14	JAK2	ENST00000381652	Acute myeloid leukemia	Ruxolitinib		Early trials
+chr9	5073770	G>T	V617F	exon_14	JAK2	ENST00000381652	Myelofibrosis	Ruxolitinib	Approved	FDA guidelines
+chr19	17948009	G>A	A572V	exon_13	JAK3	ENST00000458235	Lymphoma	[]		Pre-clinical
+chr19	17948006	G>A	A573V	exon_13	JAK3	ENST00000458235	Lymphoma	[]		Pre-clinical
+chr19	17945969	C>T	R657Q	exon_15	JAK3	ENST00000458235	Megakaryoblastic leukemia	[]		Pre-clinical
+chr19	17954634	A>G	I87T	exon_3	JAK3	ENST00000458235	Megakaryoblastic leukemia	[]		Pre-clinical
+chr19	17949138	C>A	Q501H	exon_11	JAK3	ENST00000458235	Megakaryoblastic leukemia	[]		Pre-clinical
+chr11	128781671	T>G	L168R	exon_2	KCNJ5	ENST00000529694	Adrenal adenoma	Amiloride	Approved	Pre-clinical
+chr11	128781671	T>G	L168R	exon_2	KCNJ5	ENST00000529694	Adrenal adenoma	Verapamil	Approved	Pre-clinical
+chr4	55955969	C>T	A1065T	exon_24	KDR	ENST00000263923	Any cancer type	[]		Pre-clinical
+					KIT		Gastrointestinal stromal	[]		Early trials
+					KIT		Gastrointestinal stromal	[]		Pre-clinical
+					KIT		Gastrointestinal stromal	Dasatinib		Pre-clinical
+					KIT		Cutaneous melanoma	Dasatinib		Case report
+chr4	55599321	A>T	D816V	exon_17	KIT	ENST00000288135	Systemic mastocytosis	Dasatinib		Early trials
+chr4	55599321	A>T	D816V	exon_17	KIT	ENST00000288135	Acute myeloid leukemia	Dasatinib		Case report
+chr4	55599320	G>T	D816Y	exon_17	KIT	ENST00000288135	Any cancer type	Dasatinib		Pre-clinical
+chr4	55599320	GA>TT	D816F	exon_17	KIT	ENST00000288135	Any cancer type	Dasatinib		Pre-clinical
+chr4	55599321	A>T	D816V	exon_17	KIT	ENST00000288135	Any cancer type	Dasatinib		Pre-clinical
+chr4	55599340	T>G	N822K	exon_17	KIT	ENST00000288135	Acute myeloid leukemia	Dasatinib		Pre-clinical
+					KIT		Acute myeloid leukemia	Imatinib		Pre-clinical
+					KIT		Thymic	Imatinib		Case report
+					PIK3CA		Colorectal adenocarcinoma	Cetuximab		Late trials
+					KIT		Gastrointestinal stromal	Imatinib	Approved	FDA guidelines
+					KIT		Cutaneous melanoma	Imatinib		Late trials
+					KIT		Cutaneous melanoma	Imatinib	Approved	NCCN guidelines
+					TP53		Female germ cell tumor;Male germ cell tumor	Cisplatin		Early trials
+					ALK		Lung adenocarcinoma	Crizotinib		Case report
+chr4	55599332	G>T	D820Y	exon_17	KIT	ENST00000288135	Cutaneous melanoma	Imatinib		Case report
+					ALK		Non-small cell lung	Crizotinib	Approved	Clinical trials
+chr4	55593591	T>A	Y553N	exon_11	KIT	ENST00000288135	Thymic	Imatinib		Case report
+					KIT		Cutaneous melanoma	Nilotinib		Early trials
+					KIT		Gastrointestinal stromal	Nilotinib		Early trials
+chr4	55599332	G>T	D820Y	exon_17	KIT	ENST00000288135	Cutaneous melanoma	Nilotinib		Case report
+					KIT		Gastrointestinal stromal	Ponatinib		Early trials
+chr4	55602664	G>C	A829P	exon_18	KIT	ENST00000288135	Gastrointestinal stromal	Ponatinib		Pre-clinical
+chr4	55594258	T>C	V654A	exon_13	KIT	ENST00000288135	Gastrointestinal stromal	Ponatinib		Pre-clinical
+chr4	55595519	C>T	T670I	exon_14	KIT	ENST00000288135	Gastrointestinal stromal	Ponatinib		Pre-clinical
+					KIT		Gastrointestinal stromal	Regorafenib	Approved	FDA guidelines
+					KIT		Thymic	Sorafenib		Case report
+					KIT		Gastrointestinal stromal	Sorafenib		Early trials
+					KIT		Gastrointestinal stromal	Sorafenib		Early trials
+					KIT		Cutaneous melanoma	Sorafenib		Case report
+					KIT		Gastrointestinal stromal	Sorafenib		Pre-clinical
+chr4	55599334	T>G	D820E	exon_17	KIT	ENST00000288135	Thymic	Sorafenib		Case report
+					KIT		Gastrointestinal stromal	Sunitinib		Late trials
+					KIT		Gastrointestinal stromal	Sunitinib	Approved	FDA guidelines
+					KIT		Cutaneous melanoma	Sunitinib		Late trials
+chr2	29445258	C>T	C1156Y	exon_22	ALK	ENST00000389048	Non-small cell lung	Crizotinib	Approved	Case report
+chr2	29443631	G>T	L1196M	exon_23	ALK	ENST00000389048	Non-small cell lung	Crizotinib	Approved	Case report
+chr2	29443697	A>G	F1174L	exon_23	ALK	ENST00000389048	Glioma	Crizotinib		Pre-clinical
+chr4	55595599	C>T	H697Y	exon_14	KIT	ENST00000288135	Thymic	Sunitinib		Pre-clinical
+chr4	55595599	C>T	H697Y	exon_14	KIT	ENST00000288135	Thymic	Sunitinib		Pre-clinical
+chr4	55593591	T>A	Y553N	exon_11	KIT	ENST00000288135	Thymic	Sunitinib		Case report
+					KRAS		Colorectal adenocarcinoma	Panitumumab	Approved	FDA guidelines
+					KRAS		Gastrointestinal stromal	Imatinib		Case report
+					KRAS		Colorectal adenocarcinoma	Panitumumab		NCCN guidelines
+					KRAS		Colorectal adenocarcinoma	Cetuximab		NCCN guidelines
+chr2	29443631	G>T	L1196M	exon_23	ALK	ENST00000389048	Lung adenocarcinoma	Crizotinib		Case report
+chr2	29445270	A>C	L1152R	exon_22	ALK	ENST00000389048	Lung adenocarcinoma	Crizotinib		Case report
+chr2	29445258	C>T	C1156Y	exon_22	ALK	ENST00000389048	Lung adenocarcinoma	Crizotinib		Case report
+chr2	29443697	A>G	F1174L	exon_23	ALK	ENST00000389048	Lung adenocarcinoma	Crizotinib		Case report
+chr2	29443613	C>T	G1202R	exon_23	ALK	ENST00000389048	Lung adenocarcinoma	Crizotinib		Case report
+chr2	29443600	G>T	S1206Y	exon_23	ALK	ENST00000389048	Lung adenocarcinoma	Crizotinib		Case report
+chr2	29432682	C>G	G1269A	exon_25	ALK	ENST00000389048	Lung adenocarcinoma	Crizotinib		Case report
+chr2	29445213	A>G	I1171T	exon_22	ALK	ENST00000389048	Lung adenocarcinoma	Crizotinib		Case report
+					MET		Any cancer type	Crizotinib		Pre-clinical
+					KRAS		Lung	[]		NCCN guidelines
+					KRAS		Colorectal adenocarcinoma	Trastuzumab;Lapatinib		Late trials
+chr6	117638347	C>T	G2032R	exon_38	ROS1	ENST00000368508	Lung adenocarcinoma	Crizotinib	Approved	Case report
+chr6	117639399	G>T	S1986Y	exon_37	ROS1	ENST00000368508	Lung adenocarcinoma	Crizotinib		Case report
+chr6	117639399	G>A	S1986F	exon_37	ROS1	ENST00000368508	Lung adenocarcinoma	Crizotinib		Case report
+					KRAS		Lung	[]		Pre-clinical
+					KRAS		Lung	[]		Pre-clinical
+					KRAS		Lung	[]		Early trials
+					KRAS		Cervix squamous cell	[]		Pre-clinical
+					KRAS		Colorectal adenocarcinoma	[]		Pre-clinical
+					KRAS		Colorectal adenocarcinoma	[]		Pre-clinical
+					KRAS		Lung	[]		Pre-clinical
+					KRAS		Lung	[]		Case report
+					KRAS		Lung	[]		Case report
+					KRAS		Lung	[]		Pre-clinical
+					KRAS		Lung	[]		Pre-clinical
+					KRAS		Colorectal adenocarcinoma	[]		Pre-clinical
+					KRAS		Colorectal adenocarcinoma	[]		Pre-clinical
+					KRAS		Colorectal adenocarcinoma	[]		Pre-clinical
+chr9	133747588	G>C	V299L	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	European LeukemiaNet guidelines
+chr9	133748282	A>G	T315A	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	European LeukemiaNet guidelines
+chr9	133748288	T>C	F317L	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	European LeukemiaNet guidelines
+chr9	133748288	T>G	F317V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	European LeukemiaNet guidelines
+chr9	133748288	T>A	F317I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	European LeukemiaNet guidelines
+chr9	133748289	T>G	F317C	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Dasatinib	Approved	European LeukemiaNet guidelines
+					KRAS		Lung;Billiary tract	[]		Early trials
+					KRAS		Acute myeloid leukemia;Cervix;Ovary	[]		Pre-clinical
+					NF1		Lung	Dasatinib		Pre-clinical
+					KRAS		Acute lymphoblastic leukemia	[]		Pre-clinical
+					FGFR2		Endometrium	Dovitinib		Pre-clinical
+					KRAS		Colorectal adenocarcinoma	[]		Pre-clinical
+					KRAS		Lung	[]		Early trials
+chrX	66943549	T>C	F877L	exon_8	AR	ENST00000374690	Prostate adenocarcinoma	Enzalutamide		Case report
+					KRAS		Endometrium	[]		Case report
+					KRAS		Endometrium	[]		Pre-clinical
+					KRAS		Lung	[]		Early trials
+					EGFR		Lung	Erlotinib		Case report
+					KRAS		Lung	Abemaciclib		Early trials
+					NF1		Lung	Erlotinib		Pre-clinical
+					NF2		Schwannoma	Erlotinib		Early trials
+chr1	11187096	A>G	F2108L	exon_45	MTOR	ENST00000361445	Thyroid carcinoma	Everolimus		Case report
+					MAP2K1		Any cancer type	[]		Pre-clinical
+					MAP2K1		Cutaneous melanoma	[]		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	Everolimus		Early trials
+					NF1		Malignant peripheral nerve sheat tumor	Everolimus;Bevacizumab		Early trials
+chr15	66729153	T>A	C121S	exon_3	MAP2K1	ENST00000307102	Cutaneous melanoma	[]		Pre-clinical
+chr15	66727454	A>C	K57T	exon_2	MAP2K1	ENST00000307102	Colorectal adenocarcinoma	Panitumumab;Trametinib		Case report
+					MAP2K1		Ovary	Selumetinib		Case report
+chr15	66727451	A>C	Q56P	exon_2	MAP2K1	ENST00000307102	Any cancer type	Trametinib		Pre-clinical
+					NF1		Glioma	Everolimus;Erlotinib		Case report
+					ESR1		Breast adenocarcinoma	Exemestane		Late trials
+chrX	66943552	A>G	T878A	exon_8	AR	ENST00000374690	Prostate adenocarcinoma	Flutamide		Case report
+chr6	152419923	A>C	Y537S	exon_10	ESR1	ENST00000440973	Breast adenocarcinoma	Fulvestrant		Pre-clinical
+					EGFR		Head an neck	Gefitinib	Approved	Case report
+					MET		Renal	Savolitinib		Early trials
+chr7	55259469	G>A	V843I	exon_21	EGFR	ENST00000275493	Head an neck	Gefitinib	Approved	Case report
+					SLC29A1		Bladder	Gemcitabine		Pre-clinical
+					BTK		Mantle cell lymphoma	Ibrutinib		Case report
+chr7	116417464	A>G	H1112R	exon_16	MET	ENST00000318493	Renal	[]		Early trials
+chr7	116423474	T>C	M1268T	exon_19	MET	ENST00000318493	Renal	[]		Case report
+chr7	116417464	A>T	H1112L	exon_16	MET	ENST00000318493	Any cancer type	[Crizotinib]		Pre-clinical
+					MET		Renal	Crizotinib		Early trials
+chr7	116417457	G>A	V1110I	exon_16	MET	ENST00000318493	Any cancer type	Crizotinib		Pre-clinical
+chr7	116417464	A>G	H1112R	exon_16	MET	ENST00000318493	Any cancer type	Crizotinib		Pre-clinical
+chr7	116423474	T>C	M1268T	exon_19	MET	ENST00000318493	Any cancer type	Crizotinib		Pre-clinical
+chr7	116411923	C>T	R988C	exon_14	MET	ENST00000318493	Any cancer type	Crizotinib		Pre-clinical
+chr7	116411990	C>T	T1010I	exon_14	MET	ENST00000318493	Any cancer type	Crizotinib		Pre-clinical
+chrX	100611165	A>T	C481S	exon_15	BTK	ENST00000308731	Chronic lymphocytic leukemia	Ibrutinib		Early trials
+chr16	81946260	C>T	R665W	exon_19	PLCG2	ENST00000359376	Chronic lymphocytic leukemia	Ibrutinib	Approved	Early trials
+chr16	81962183	A>T	L845F	exon_24	PLCG2	ENST00000359376	Chronic lymphocytic leukemia	Ibrutinib	Approved	Early trials
+chr9	133738325	T>C	I242T	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738330	A>G	M244V	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738340	A>G	K247R	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738342	C>G	L248V	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738349	G>A	G250E	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738348	G>A	G250R	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738355	A>G	Q252R	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738356	G>T	Q252H	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738358	A>T	Y253F	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738357	T>C	Y253H	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738363	G>A	E255K	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738364	A>T	E255V	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738309	A>G	M237V	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738374	G>C	E258D	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738382	G>T	W261L	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133738417	T>A	L273M	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747516	G>A	E275K	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747516	G>C	E275Q	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747520	A>G	D276G	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747522	A>G	T277A	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747528	G>A	E279K	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747532	T>C	V280A	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747559	T>C	V289A	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747558	G>A	V289I	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747568	A>T	E292V	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747567	G>C	E292Q	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747570	A>G	I293V	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747585	C>G	L298V	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133747588	G>C	V299L	exon_5	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748270	T>C	F311L	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748270	T>A	F311I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748283	C>T	T315I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748288	T>C	F317L	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748288	T>G	F317V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748288	T>A	F317I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748289	T>G	F317C	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748298	A>G	Y320C	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748310	T>A	L324Q	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748363	T>C	Y342H	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748367	T>C	M343T	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748370	C>T	A344V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748388	C>T	A350V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748391	T>C	M351T	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748404	G>C	E355D	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748403	A>G	E355G	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748403	A>C	E355A	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748414	T>G	F359V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748414	T>A	F359I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748415	T>G	F359C	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133748414	T>C	F359L	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750256	G>T	D363Y	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750259	C>A	L364I	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750263	C>T	A365V	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750266	C>G	A366G	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750278	T>C	L370P	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750281	T>C	V371A	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750286	G>A	E373K	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750304	G>A	V379I	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750307	G>A	A380T	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750313	T>C	F382L	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750319	C>A	L384M	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750328	T>A	L387M	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750330	G>T	L387F	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750328	T>G	L387V	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750331	A>C	M388L	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750347	A>G	Y393C	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750356	A>C	H396P	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750356	A>G	H396R	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750355	CA>GC	H396A	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750358	G>C	A397P	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750419	C>T	S417F	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750419	C>A	S417Y	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750422	T>G	I418S	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133750421	A>G	I418V	exon_7	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753828	G>A	A433T	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753844	C>G	S438C	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753879	G>A	E450K	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753880	A>G	E450G	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753880	A>C	E450A	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753880	A>T	E450V	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753888	G>A	E453K	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753889	A>G	E453G	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753889	A>C	E453A	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753889	A>T	E453V	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753906	G>A	E459K	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753907	A>G	E459G	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753907	A>C	E459A	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753907	A>T	E459V	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133753947	G>C	M472I	exon_8	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133755470	C>T	P480L	exon_9	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133755488	T>C	F486S	exon_9	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+chr9	133755893	A>G	E507G	exon_10	ABL1	ENST00000318560	Chronic myeloid leukemia	Imatinib	Approved	European LeukemiaNet guidelines
+					KIT		Gastrointestinal stromal	Imatinib		Late trials
+					KIT		Gastrointestinal stromal	Imatinib		Late trials
+					KIT		Gastrointestinal stromal	Imatinib		Pre-clinical
+					KIT		Cutaneous melanoma	Imatinib		Early trials
+					KIT		Gastrointestinal stromal;Myelodisplasic syndrome;Myelodisplasic proliferative syndrome;Hyper eosinophilic advanced snydrome;Eosinophilic chronic leukemia;Chronic myeloid leukemia;Acute lymphoblastic leukemia;Systemic mastocytosis	Imatinib	Approved	FDA guidelines
+chr4	55595519	C>T	T670I	exon_14	KIT	ENST00000288135	Gastrointestinal stromal	Imatinib		Case report
+					MLL2		Lung squamous cell	Bicalutamide		Pre-clinical
+chr1	43815009	GG>TT	W515F	exon_10	MPL	ENST00000372470	Myelodisplasic proliferative syndrome	[]		Pre-clinical
+					MSH3		Any cancer type	[]		Pre-clinical
+chr1	11187096	A>G	F2108L	exon_45	MTOR	ENST00000361445	Any cancer type	[]		Pre-clinical
+chr1	11187857	C>T	E2014K	exon_44	MTOR	ENST00000361445	Bladder	Everolimus		Case report
+chr1	11174420	C>T	E2419K	exon_53	MTOR	ENST00000361445	Bladder	Everolimus		Case report
+chr1	11227567	T>C	N1421D	exon_29	MTOR	ENST00000361445	Bladder	Everolimus		Case report
+					KIT		Gastrointestinal stromal	Imatinib		Pre-clinical
+chr1	11188177	T>A	I1973F	exon_43	MTOR	ENST00000361445	Angiosarcoma;Renal	Everolimus		Case report
+chr1	11193189	T>C	K1771R	exon_38	MTOR	ENST00000361445	Stomach;Anaplastic oligodendroglioma	Everolimus		Case report
+chr1	11227567	T>C	N1421D	exon_29	MTOR	ENST00000361445	Stomach	Everolimus		Case report
+chr1	11182179	G>T	Q2223K	exon_48	MTOR	ENST00000361445	Renal	Everolimus		Case report
+chr1	11217299	A>G	L1460P	exon_30	MTOR	ENST00000361445	Any cancer type	Sirolimus		Pre-clinical
+chr1	11184573	G>T	S2215Y	exon_47	MTOR	ENST00000361445	Any cancer type	Sirolimus		Pre-clinical
+chr1	11169361	C>G	R2505P	exon_56	MTOR	ENST00000361445	Any cancer type	Sirolimus		Pre-clinical
+					KRAS		Ovary	Decitabine;BCL2 inhibitor		Pre-clinical
+					MYD88		Waldenström macroglobulinemia	Ibrutinib		FDA guidelines
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Glioma;Leukemia	[]		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Glioma;Malignant peripheral nerve sheat tumor;Leukemia	[]		Pre-clinical
+					NF1		Cutaneous melanoma	[]		Pre-clinical
+					NF1		Cutaneous melanoma	[]		Early trials
+					PDGFRA		Gastrointestinal stromal	Imatinib		Late trials
+chr4	55152093	A>T	D842V	exon_18	PDGFRA	ENST00000257290	Gastrointestinal stromal	Imatinib		Late trials,Pre-clinical
+					NF1		Glioma	Bevacizumab		Case report
+chr4	55144547	C>T	T674I	exon_15	PDGFRA	ENST00000257290	Hyper eosinophilic advanced snydrome	Imatinib		Case report
+chr17	37880213	A>G	K753E	exon_19	ERBB2	ENST00000269571	Breast adenocarcinoma	Lapatinib		Pre-clinical
+chr1	156846342	G>A	G595R	exon_14	NTRK1	ENST00000524377	Any cancer type	Larotrectinib		Pre-clinical
+chr15	88476265	C>T	G623R	exon_15	NTRK3	ENST00000360948	Any cancer type	Larotrectinib		Pre-clinical
+					CRBN		Myeloma	Lenalidomide		Case report
+chr3	3215822	G>A	Q100*	exon_3	CRBN	ENST00000231948	Myeloma	Lenalidomide		Case report
+chr3	3195747	C>T	R283K	exon_8	CRBN	ENST00000231948	Myeloma	Lenalidomide		Case report
+					NF1		Head an neck;Salivary glands	Everolimus		Case report
+					NF1		Neurofibroma	Everolimus	Approved	Late trials
+chr17	29652933	A>C	D1644A	exon_37	NF1	ENST00000358273	Head an neck	Everolimus		Case report
+					LRP1B		Ovary	Liposomal Doxorubicin		Early trials
+					NF1		Hepatic carcinoma	Everolimus;Pazopanib		Case report
+					NF1		Plexiform neurofibroma	Imatinib		Early trials
+					NF1		Plexiform neurofibroma;Malignant peripheral nerve sheat tumor	Nilotinib		Pre-clinical
+					NF1		Plexiform neurofibroma	PLX3397		Pre-clinical
+					NF1		Plexiform neurofibroma	Selumetinib		Early trials
+					NF1		Plexiform neurofibroma	Sirolimus		Early trials
+					NF1		Glioma	Sirolimus;Erlotinib		Case report
+					NF1		Malignant peripheral nerve sheat tumor	Sorafenib;Sirolimus		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	Tamoxifen		Pre-clinical
+chr17	37881064	C>T	T798I	exon_20	ERBB2	ENST00000269571	Breast adenocarcinoma	Neratinib		Case report
+chr9	133738363	G>A	E255K	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	European LeukemiaNet guidelines
+chr9	133738364	A>T	E255V	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	European LeukemiaNet guidelines
+chr9	133738357	T>C	Y253H	exon_4	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	European LeukemiaNet guidelines
+chr9	133748414	T>G	F359V	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	European LeukemiaNet guidelines
+chr9	133748415	T>G	F359C	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	European LeukemiaNet guidelines
+chr9	133748414	T>A	F359I	exon_6	ABL1	ENST00000318560	Chronic myeloid leukemia	Nilotinib	Approved	European LeukemiaNet guidelines
+					NF1		Glioma	Trametinib		Case report
+					NF1		Cutaneous melanoma	Trametinib		Pre-clinical
+chr7	55249091	T>A	C797S	exon_20	EGFR	ENST00000275493	Lung	Osimertinib		Early trials
+					EGFR		Lung	Osimertinib		Early trials
+					NF1		Glioma	Vinblastine		Early trials
+					NF1		Glioma	Vinblastine;Nilotinib		Case report
+					EGFR		Lung	Osimertinib		Early trials
+					NF2		Mesothelioma	[]		Early trials
+					NF2		Mesothelioma;Ovary	[]		Pre-clinical
+					NF2		Meningioma	[]		Pre-clinical
+					NF2		Thyroid	[]		Pre-clinical
+					NF2		Meningioma	[]		Pre-clinical
+					NF2		Schwannoma;Meningioma	[]		Pre-clinical
+					NF2		Schwannoma	[]		Pre-clinical
+					NF2		Schwannoma	AR42		Pre-clinical
+					NF2		Meningioma	AR42		Early trials
+					NF2		Schwannoma	Bevacizumab		Early trials
+chr7	140453136	A>T	V600E	exon_15	BRAF	ENST00000288602	Colorectal adenocarcinoma	Panitumumab		Late trials
+chr7	55227926	G>A	G465R	exon_12	EGFR	ENST00000275493	Colorectal adenocarcinoma	Panitumumab		Case report
+					NF2		Schwannoma	Everolimus		Early trials
+					NF2		Meningioma	Everolimus;Octreotide		Pre-clinical
+					NF2		Schwannoma	Imatinib		Pre-clinical
+					NF2		Schwannoma;Neurofibroma	Lapatinib		Early trials
+					NF2		Breast adenocarcinoma	Tensirolimus;Chemotherapy		Case report
+					KRAS		Pancreas	Gemcitabine;MEK inhibitor		Early trials
+					KRAS		Non-small cell lung	Selumetinib	Clinical Trials	Early trials
+					NOTCH1		Acute lymphoblastic leukemia	[]		Pre-clinical
+					NOTCH1		Acute lymphoblastic leukemia	[]		Pre-clinical
+					NOTCH1		Acute lymphoblastic leukemia	[]		Early trials
+					NOTCH1		Acute lymphoblastic leukemia	[]		Pre-clinical
+					NOTCH1		Breast adenocarcinoma	[]		Pre-clinical
+					NOTCH1		Mantle cell lymphoma	[]		Pre-clinical
+					NOTCH1		Adenoid cystic carcinoma	[]		Case report
+					NOTCH1		Any cancer type	[Ro4929097,Pf-03084014,Mk-0752]	Clinical Trials	Early trials
+					NOTCH1		Any cancer type	OMP-52M51	Clinical Trials	Early trials
+					NOTCH2		Breast adenocarcinoma;Acute myeloid leukemia;Acute lymphoblastic leukemia	Mk-0752	Clinical Trials	Early trials
+					NOTCH2		Solid tumors	OMP-59R5	Clinical Trials	Early trials
+					NPM1		Acute myeloid leukemia	[]		Pre-clinical
+					NPM1		Acute myeloid leukemia	Daunorubicin	Approved	FDA guidelines
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Lung	Afatinib		NCCN/CAP guidelines
+					NRAS		Cutaneous melanoma	[]	Approved	Early trials
+chr1	115258748	C>A	G12C	exon_2	NRAS	ENST00000369535	Any cancer type	[]		Pre-clinical
+					NRAS		Cutaneous melanoma	[]		Case report
+					NRAS		Cutaneous melanoma	[]		Pre-clinical
+					NRAS		Colorectal adenocarcinoma	[]		Pre-clinical
+					NRAS		Acute myeloid leukemia;Lung adenocarcinoma;Acute lymphoblastic leukemia	[]		Pre-clinical
+					NRAS		Cutaneous melanoma	[]		Late trials
+					NRAS		Cutaneous melanoma	[]		Case report
+					NRAS		Myeloma	[]		Pre-clinical
+					CRBN		Myeloma	Pomalidomide		Case report
+chr3	3215822	G>A	Q100*	exon_3	CRBN	ENST00000231948	Myeloma	Pomalidomide		Case report
+chr3	3195747	C>T	R283K	exon_8	CRBN	ENST00000231948	Myeloma	Pomalidomide		Case report
+					NRAS		Hepatic carcinoma	Sorafenib;MEK inhibitor		Early Trials,Case Report
+					PALB2		Prostate adenocarcinoma	[]		Early trials
+					PALB2		Pancreas	[]		Pre-clinical
+					PALB2		Pancreas	Mytomycin C		Case report
+					PALB2		Pancreas	Platinum Agent		Case report
+					PBRM1		Any cancer type	[]		Pre-clinical
+chr4	55152093	A>T	D842V	exon_18	PDGFRA	ENST00000257290	Gastrointestinal stromal	[]		Pre-clinical
+					FLT3		Acute myeloid leukemia	Ponatinib		Pre-clinical
+chr4	55152093	A>T	D842V	exon_18	PDGFRA	ENST00000257290	Gastrointestinal stromal	Crenolanib		Early trials
+chr4	55144144	T>C	V658A	exon_14	PDGFRA	ENST00000257290	Cutaneous melanoma	Crenolanib		Pre-clinical
+chr4	55141083	C>T	P577S	exon_12	PDGFRA	ENST00000257290	Cutaneous melanoma	Crenolanib		Pre-clinical
+chr4	55152090	G>A	R841K	exon_18	PDGFRA	ENST00000257290	Cutaneous melanoma	Crenolanib		Pre-clinical
+chr4	55152101	C>T	H845Y	exon_18	PDGFRA	ENST00000257290	Cutaneous melanoma	Crenolanib		Pre-clinical
+chr4	55152126	G>A	G853D	exon_18	PDGFRA	ENST00000257290	Cutaneous melanoma	Crenolanib		Pre-clinical
+					PDGFRA		Gastrointestinal stromal	Dasatinib		Pre-clinical
+chr4	55152093	A>T	D842V	exon_18	PDGFRA	ENST00000257290	Gastrointestinal stromal	Dasatinib		Pre-clinical
+					PDGFRA		Gastrointestinal stromal	Imatinib	Approved	NCCN guidelines
+chr10	43613899	T>A	I788N	exon_13	RET	ENST00000355710	Lung adenocarcinoma	Ponatinib		Pre-clinical
+					PDGFRA		Gastrointestinal stromal	Imatinib	Approved	NCCN guidelines
+					FLT3		Acute myeloid leukemia	Quizartinib		Pre-clinical
+chr4	55141083	C>T	P577S	exon_12	PDGFRA	ENST00000257290	Cutaneous melanoma	Imatinib		Pre-clinical
+chr4	55152090	G>A	R841K	exon_18	PDGFRA	ENST00000257290	Cutaneous melanoma	Imatinib		Pre-clinical
+chr4	55152101	C>T	H845Y	exon_18	PDGFRA	ENST00000257290	Cutaneous melanoma	Imatinib		Pre-clinical
+chr4	55152126	G>A	G853D	exon_18	PDGFRA	ENST00000257290	Cutaneous melanoma	Imatinib		Pre-clinical
+chr7	55249071	C>T	T790M	exon_20	EGFR	ENST00000275493	Lung	Erlotinib		NCCN/CAP guidelines
+					PDGFRA		Gastrointestinal stromal	Regorafenib	Approved	NCCN guidelines
+					PDGFRA		Gastrointestinal stromal	Sorafenib		Early trials
+					PDGFRA		Gastrointestinal stromal	Sunitinib		Late trials
+					PDGFRA		Gastrointestinal stromal	Sunitinib	Approved	NCCN guidelines
+chr7	55249094	C>A	L798I	exon_20	EGFR	ENST00000275493	Lung adenocarcinoma	Rociletinib		Case report
+					PIK3CA		Breast adenocarcinoma	[]		Early trials
+					PIK3CA		Lung;Colorectal adenocarcinoma	[]		Pre-clinical
+					PIK3CA		Bladder;Head an neck;Lung	[]		Case report
+					PIK3CA		Breast adenocarcinoma;Ovary;Cervix squamous cell;Endometrium	[]		Early trials
+					PIK3CA		Head an neck squamous	[]		Case report
+					PIK3CA		Glioma;Thyroid carcinoma	[]		Pre-clinical
+					KRAS		Hepatic carcinoma	Sorafenib;MEK inhibitor		Early Trials,Case Report
+					PIK3CA		Breast adenocarcinoma	[]		Early trials
+					PIK3CA		Stomach	[]		Case report
+					PIK3CB		Head an neck squamous	[]		Pre-clinical
+chr3	138374245	C>A	D1067Y	exon_23	PIK3CB	ENST00000477593	Breast adenocarcinoma	[]		Pre-clinical
+					PIK3CB		Head an neck squamous	[]		Pre-clinical
+chr3	138374245	C>A	D1067Y	exon_23	PIK3CB	ENST00000477593	Breast adenocarcinoma	[]		Pre-clinical
+					PIK3CB		Head an neck squamous	[]		Pre-clinical
+					PIK3R1		Glioma	[]		Pre-clinical
+					PIK3R1		Endometrium	[]		Case report
+chr19	18271909	C>T	A171V	exon_5	PIK3R2	ENST00000222254	Endometrium	[]		Pre-clinical
+chr19	18278061	A>G	N561D	exon_13	PIK3R2	ENST00000222254	Endometrium	[]		Pre-clinical
+					POLE		Glioma;Endometrium	[]		Case report
+					POLE		Colorectal adenocarcinoma	[]		Case report
+					PTCH1		Medulloblastoma	[]	Approved	Pre-clinical
+					PTCH1		Medulloblastoma	Foretinib		Pre-clinical
+					PTCH1		Basal cell carcinoma;Medulloblastoma	Vismodegib	Approved	FDA guidelines
+					PTEN		Pancreas	[]		Case report
+					PTEN		Breast adenocarcinoma	[]		Pre-clinical
+					PTEN		Endometrium	[]		Case report
+					PTEN		Cutaneous melanoma	[]		Early trials
+					PTEN		Prostate adenocarcinoma	[]		Pre-clinical
+					PTEN		Ovary	[]		Pre-clinical
+					PTEN		Thyroid;Glioma;Lung;Ovary;Breast adenocarcinoma;Any cancer type;Endometrium	[]		Pre-clinical
+					PTEN		Prostate adenocarcinoma	[]		Case report
+					KIT		Gastrointestinal stromal	Sunitinib		Late trials
+					PTEN		Prostate adenocarcinoma	Everolimus		Early trials
+					KIT		Gastrointestinal stromal	Sunitinib		Pre-clinical
+					PTEN		Any cancer type	Sirolimus		Early trials
+chr4	55152093	A>T	D842V	exon_18	PDGFRA	ENST00000257290	Gastrointestinal stromal	Sunitinib		Late trials,Pre-clinical
+					ESR1		Breast adenocarcinoma	Tamoxifen		Early trials
+					NF1		Plexiform neurofibroma	Tipifarnib		Early trials
+					PTPRD		Sarcoma	[]		Case report
+					NF1		Osteosarcoma	Trametinib		Case report
+					RAD51C		Ovary	[]		Early trials
+					RAD51C		Ovary	[]		Early trials
+					RB1		Retinoblastoma	[]		Pre-clinical
+					RB1		Retinoblastoma	[]		Pre-clinical
+					RB1		Bladder	Cisplatin	Approved	Early trials
+chr10	43609950	C>G	C634W	exon_11	RET	ENST00000355710	Thyroid	[]		Pre-clinical
+chr10	43617416	T>C	M918T	exon_16	RET	ENST00000355710	Thyroid	[]		Pre-clinical
+chr10	43609950	C>G	C634W	exon_11	RET	ENST00000355710	Thyroid	Cabozantinib		Pre-clinical
+chr10	43617416	T>C	M918T	exon_16	RET	ENST00000355710	Thyroid	Cabozantinib		Pre-clinical
+chr10	43609950	C>G	C634W	exon_11	RET	ENST00000355710	Thyroid	Sunitinib		Pre-clinical
+chr10	43617416	T>C	M918T	exon_16	RET	ENST00000355710	Thyroid	Sunitinib		Pre-clinical
+					RET		Thyroid carcinoma	Vandetanib	Approved	FDA guidelines
+					RNF43		Colorectal adenocarcinoma	[]		Case report
+chr6	117638347	C>T	G2032R	exon_38	ROS1	ENST00000368508	Lung adenocarcinoma	Cabozantinib		Pre-clinical
+chr6	117639399	G>T	S1986Y	exon_37	ROS1	ENST00000368508	Lung adenocarcinoma	Lorlatinib		Case report
+chr6	117639399	G>A	S1986F	exon_37	ROS1	ENST00000368508	Lung adenocarcinoma	Lorlatinib		Case report
+					SERPINB3		Cutaneous melanoma	[]		Early trials
+					SETD2		Any cancer type	[]		Pre-clinical
+chr2	198266834	T>C	K700E	exon_15	SF3B1	ENST00000335508	Any cancer type	[]		Pre-clinical
+chr2	198267359	C>G	K666N	exon_14	SF3B1	ENST00000335508	Any cancer type	[]		Pre-clinical
+					SH2B3		Myelodisplasic proliferative syndrome	[]		Pre-clinical
+					SMARCA1		Any cancer type	[]		Pre-clinical
+					SMARCA4		Ovary	[]		Case report
+					SMARCB1		Malignant rhabdoid tumor	[]		Case report
+					SMARCB1		Malignant rhabdoid tumor	[]		Pre-clinical
+					KRAS		Lung adenocarcinoma	Trametinib;Ponatinib		Pre-clinical
+chr7	128851596	C>G	P641A	exon_11	SMO	ENST00000249373	Lung	Vismodegib		Case report
+					SRSF2		Acute myeloid leukemia	[]		Pre-clinical
+					STAG2		Glioma	[]		Pre-clinical
+					BRAF		Any cancer type	Vemurafenib	Approved	Pre-clinical
+					STK11		Lung adenocarcinoma	[]		Pre-clinical
+					STK11		Any cancer type	[]		Pre-clinical
+					STK11		Lung adenocarcinoma	[]		Pre-clinical
+chr19	1220489	C>G	D194E	exon_4	STK11	ENST00000326873	Pancreas	Everolimus		Case report
+					STK11		Lung adenocarcinoma	Phenformin		Pre-clinical
+					BRAF		Colorectal adenocarcinoma	Vemurafenib	Approved	Early trials
+chr15	66774131	G>A	E203K	exon_6	MAP2K1	ENST00000307102	Cutaneous melanoma	Vemurafenib		Case report
+chr15	66727451	A>C	Q56P	exon_2	MAP2K1	ENST00000307102	Cutaneous melanoma	Vemurafenib		Case report
+chr15	66727453	A>G	K57E	exon_2	MAP2K1	ENST00000307102	Cutaneous melanoma	Vemurafenib		Case report
+					SUZ12		Any cancer type	[]		Pre-clinical
+					TERT		Glioblastoma multiforme	Eribulin		Pre-clinical
+					TP53		Acute myeloid leukemia	[]		Early trials
+chr17	7577538	C>T	R248Q	exon_7	TP53	ENST00000269305	Any cancer type	[]		Pre-clinical
+chr17	7578406	C>T	R175H	exon_5	TP53	ENST00000269305	Any cancer type	[]		Pre-clinical
+chr17	7577538	C>T	R248Q	exon_7	TP53	ENST00000269305	Any cancer type	[]		Pre-clinical
+chr17	7578406	C>T	R175H	exon_5	TP53	ENST00000269305	Any cancer type	[]		Pre-clinical
+					TP53		Head an neck	[]		Pre-clinical
+					TP53		B cell lymphoma	AZD6738	Clinical Trials	Early trials
+					NRAS		Cutaneous melanoma	Vemurafenib		Pre-clinical
+					TP53		Acute myeloid leukemia;Myelodisplasic proliferative syndrome	Decitabine		Early trials
+					TP53		Bladder	Doxorubicin		Pre-clinical
+					TP53		Bladder	Gemcitabine		Pre-clinical
+					TP53		Bladder	Mitomycin C		Pre-clinical
+					TP53		Ovary	[]	Clinical Trials	Early trials
+					TP53		Thymic	Pramlintide		Pre-clinical
+					TPMT		Any cancer type	Cisplatin	Approved	FDA guidelines
+chr6	18143955	C>G	A80P	exon_4	TPMT	ENST00000309983	Any cancer type	Cisplatin	Approved	FDA guidelines
+chr6	18130918	T>C	Y240C	exon_9	TPMT	ENST00000309983	Any cancer type	Cisplatin	Approved	FDA guidelines
+chr6	18139228	C>T	A154T	exon_6	TPMT	ENST00000309983	Any cancer type	Cisplatin	Approved	FDA guidelines
+chr6	18134115	G>C	A167G	exon_7	TPMT	ENST00000309983	Any cancer type	Cisplatin	Approved	FDA guidelines
+					TPMT		Any cancer type	Mercaptopurine	Approved	FDA guidelines
+chr6	18143955	C>G	A80P	exon_4	TPMT	ENST00000309983	Any cancer type	Mercaptopurine	Approved	FDA guidelines
+chr6	18130918	T>C	Y240C	exon_9	TPMT	ENST00000309983	Any cancer type	Mercaptopurine	Approved	FDA guidelines
+chr6	18139228	C>T	A154T	exon_6	TPMT	ENST00000309983	Any cancer type	Mercaptopurine	Approved	FDA guidelines
+chr6	18134115	G>C	A167G	exon_7	TPMT	ENST00000309983	Any cancer type	Mercaptopurine	Approved	FDA guidelines
+					TPMT		Any cancer type	Thioguanine	Approved	FDA guidelines
+chr6	18143955	C>G	A80P	exon_4	TPMT	ENST00000309983	Any cancer type	Thioguanine	Approved	FDA guidelines
+chr6	18130918	T>C	Y240C	exon_9	TPMT	ENST00000309983	Any cancer type	Thioguanine	Approved	FDA guidelines
+chr6	18139228	C>T	A154T	exon_6	TPMT	ENST00000309983	Any cancer type	Thioguanine	Approved	FDA guidelines
+chr6	18134115	G>C	A167G	exon_7	TPMT	ENST00000309983	Any cancer type	Thioguanine	Approved	FDA guidelines
+chr15	88476265	C>T	G623R	exon_15	NTRK3	ENST00000360948	Any cancer type	[]		Case report
+					FLT3		Acute myeloid leukemia	Venetoclax		Early trials
+					TSC1		Renal angiomyolipoma	[]		Early trials
+					TSC1		Bladder	Everolimus	Approved	Early trials
+					TSC1		Renal	Everolimus		Case report
+					TSC1		Giant cell astrocytoma	Everolimus	Approved	FDA guidelines
+					TSC1		Sarcoma;Stomach	Everolimus	Approved	Case report
+					TSC1		Renal angiomyolipoma	Everolimus	Approved	FDA guidelines
+					TSC2		Renal angiomyolipoma	[]		Early trials
+					TSC2		Lymphangioleiomyomatosis	[]		Pre-clinical
+					TSC2		Bladder	Everolimus	Approved	Early trials
+					TSC2		Renal angiomyolipoma;Giant cell astrocytoma	Everolimus	Approved	FDA guidelines
+chr16	2130300	C>T	Q1178*	exon_30	TSC2	ENST00000219476	Thyroid carcinoma	Everolimus	Approved	Case report
+chr16	2100458	G>A	E66K	exon_3	TSC2	ENST00000219476	Endometrium	Tensirolimus		Case report
+chr7	128849189	G>C	D473H	exon_8	SMO	ENST00000249373	Medulloblastoma	Vismodegib		Case report
+					U2AF1		Any cancer type	[]		Pre-clinical
+chr2	234669144	G>A	G71R	exon_1	UGT1A1	ENST00000305208	Any cancer type	Irinotecan	Approved	FDA guidelines
+chr2	234669619	C>A	P229Q	exon_1	UGT1A1	ENST00000305208	Any cancer type	Irinotecan	Approved	FDA guidelines
+chr2	234669144	G>A	G71R	exon_1	UGT1A1	ENST00000305208	Any cancer type	Nilotinib	Approved	FDA guidelines
+chr2	234669619	C>A	P229Q	exon_1	UGT1A1	ENST00000305208	Any cancer type	Nilotinib	Approved	FDA guidelines
+					VHL		Renal	[Sorafenib,Sunitinib,Bevacizumab,Axitinib]	Approved	Pre-clinical
+chr7	128849189	G>C	D473H	exon_8	SMO	ENST00000249373	Basal cell carcinoma	Vismodegib		Case report
+chr7	128849190	A>G	D473G	exon_8	SMO	ENST00000249373	Basal cell carcinoma	Vismodegib		Case report
+chr7	128850341	G>T	W535L	exon_9	SMO	ENST00000249373	Basal cell carcinoma	Vismodegib		Case report
+chr7	128846398	C>T	L412F	exon_6	SMO	ENST00000249373	Basal cell carcinoma	Vismodegib		Case report
+chr7	128845546	G>T	W281C	exon_4	SMO	ENST00000249373	Basal cell carcinoma	Vismodegib		Case report
+chr7	128849201	C>G	Q477E	exon_8	SMO	ENST00000249373	Basal cell carcinoma	Vismodegib		Case report
+chr7	128850226	G>T	G497W	exon_9	SMO	ENST00000249373	Basal cell carcinoma	Vismodegib		Case report
+					ZNRF3		Colorectal adenocarcinoma	[]		Pre-clinical
+					ABL1		Chronic myeloid leukemia	Bosutinib	Approved	FDA guidelines
+					ABL1		Chronic myeloid leukemia;Acute lymphoblastic leukemia	Dasatinib	Approved	FDA guidelines
+					ABL1		Acute lymphoblastic leukemia	Dasatinib;Venetoclax		Pre-clinical
+					ABL1		Chronic myeloid leukemia;Acute lymphoblastic leukemia	Imatinib	Approved	FDA guidelines
+					ABL1		Chronic myeloid leukemia	Nilotinib	Approved	FDA guidelines
+					ABL1		Chronic myeloid leukemia;Acute lymphoblastic leukemia	Ponatinib	Approved	FDA guidelines
+					AKT2		Any cancer type	MK2206	Clinical Trials	Pre-clinical
+					AKT3		Breast adenocarcinoma	[AZD5363,GSK2141795]	Clinical Trials;Clinical Trials	Pre-clinical
+					ALK		Lung adenocarcinoma	[]		Pre-clinical
+					ALK		Lung adenocarcinoma	[]		Pre-clinical
+					ALK		Lung adenocarcinoma	[]		Pre-clinical
+					ALK		Colorectal adenocarcinoma	[]		Case report
+					ALK		Lung adenocarcinoma	[]		Early trials
+					ALK		Lung adenocarcinoma	[]		Early trials
+					ALK		Lung adenocarcinoma	Alectinib		FDA guidelines
+					ALK		Non-small cell lung	Alectinib	Clinical_Trials	FDA guidelines
+					CCND1		Medulloblastoma	[]		Pre-clinical
+					ALK		Lung adenocarcinoma	Brigatinib		Case report
+					ALK		Non-small cell lung;Lung adenocarcinoma	Ceritinib	Approved	FDA guidelines
+					ALK		Colorectal adenocarcinoma;Inflammatory myofibroblastic	Ceritinib		Case report
+					ALK		Hematologic malignancies	Ceritinib	Clinical Trials	Early trials
+					ALK		Lymphoma;Glioblastoma	Crizotinib		Early trials
+					ALK		Non-small cell lung;Lung adenocarcinoma	Crizotinib	Approved	FDA guidelines
+					ALK		Inflammatory myofibroblastic;Thyroid carcinoma	Crizotinib		Case report
+					EGFR		Glioma	[]		Early trials
+					EGFR		Glioma	[]		Early trials
+					ALK		Colorectal adenocarcinoma	Entrictinib		Case report
+					ALK		Non-small cell lung	Lorlatinib		Early trials
+					ALK		Non-small cell lung	Brigatinib		FDA guidelines
+					EGFR		Glioma	[]		Early trials
+					AR		Prostate adenocarcinoma	[]		Pre-clinical
+					AR		Breast adenocarcinoma	[Bicalutamide,Enzalutamide,Orterone,4OHtestosterone]	Clinical Trials	Early trials
+					ERBB2		Lung adenocarcinoma	[]		Pre-clinical
+					ERBB2		Colorectal adenocarcinoma	[]		Early trials
+					ERBB3		Colorectal adenocarcinoma	[]		Early trials
+					ESR1		Breast adenocarcinoma	[]		Pre-clinical
+					AR		Prostate adenocarcinoma	Enzalutamide	Approved	Early trials
+					AR;AR		Prostate adenocarcinoma	Enzalutamide		Pre-clinical
+					FBXW7		Any cancer type	[]		Pre-clinical
+					FGFR2;FGFR2		Cholangiocarcinoma	[]		Early trials
+					AREG		Colorectal adenocarcinoma	[]		Early trials
+					GLI2		Medulloblastoma	[]		Pre-clinical
+					ATM		Colorectal adenocarcinoma	[]		Case report
+					ATM		Lymphoma	[]		Pre-clinical
+					ATM		Stomach	[]		Early trials
+					ATM		B cell lymphoma	AZD6738	Clinical Trials	Early trials
+					ATM		Bladder	Cisplatin	Approved	Early trials
+					ATR		Ovary;Any cancer type	Olaparib	Approved	Pre-clinical
+					AURKA		Prostate adenocarcinoma;Any cancer type	[]		Pre-clinical
+					IGF2		Colorectal adenocarcinoma	[]		Early trials
+					BAP1		Mesothelioma	[]		Pre-clinical
+					BAP1		Cutaneous melanoma	[]		Pre-clinical
+					BAP1		Renal;Any cancer type	[]		Pre-clinical
+					BCL2		Multiple myeloma	Venetoclax;Bortezomib		Early trials
+					BCL2		Lymphoma	[]		Pre-clinical
+					BCL6		Lymphoma	Onalespib		Early trials
+					BRAF		Lung adenocarcinoma	[]		Case report
+					BRAF		Lung adenocarcinoma;Cutaneous melanoma;Prostate adenocarcinoma	[Trametinib]		Pre-clinical
+					BRAF		Ovary	Selumetinib		Case report
+					BRAF		Cutaneous melanoma;Lung adenocarcinoma;Prostate adenocarcinoma	Sorafenib		Pre-clinical
+					KRAS		Colorectal adenocarcinoma	[]		Case report
+					BRAF;EGFR		Lung adenocarcinoma	[]		Pre-clinical
+					BRCA1		Ovary	[]		Pre-clinical
+					BRCA2		Ovary	[Olaparib]		Pre-clinical
+					KRAS		Colorectal adenocarcinoma	[]		Case report
+					C15orf55		NUT midline carcinoma	[]		Case report
+					CA9		Renal	Sunitinib	Approved	Pre-clinical
+					CCND1		Cutaneous melanoma	[]		Case report
+					CCND1		Any cancer type	[]		Pre-clinical
+					CCND2		Any cancer type	[]		Pre-clinical
+					CCND2		Lung	Palbociclib	Approved	Early trials
+					CCND3		Any cancer type	[]		Pre-clinical
+					CCNE1		Any cancer type	[]		Pre-clinical
+					CD274		Basal cell carcinoma	[]		Case report
+					CD274		Any cancer type	[]		Pre-clinical
+					CD274		Cutaneous melanoma;Renal;Any cancer type	Atezolizumab	Clinical Trials	Early trials
+					CD274		Renal	Nivolumab	Clinical Trials	Early trials
+					CD274		Bladder	Pembrolizumab	Clinical Trials	Early trials
+					CD69		Chronic lymphocytic leukemia	Bendamustine	Approved	Pre-clinical
+					CDK12		Ovary	[]		Pre-clinical
+					CDK4		Liposarcoma;Lymphoma;Any cancer type	LEE011	Clinical Trials	Early trials
+					CDK4;RB1		Liposarcoma	[]		Early trials
+					CDK6		Any cancer type	[]		Pre-clinical
+					CDK6		Liposarcoma;Lymphoma;Any cancer type	LEE011	Clinical Trials	Early trials
+					CDKN1A		Any cancer type	[]		Pre-clinical
+					CDKN1B		Any cancer type	[]		Pre-clinical
+					CDKN2A		Cutaneous melanoma	[]		Case report
+					CDKN2A		Glioma;Any cancer type	[]		Pre-clinical
+					CDKN2A		Any cancer type	Ilorasertib	Clinical Trials	Early trials
+					CDKN2B		Glioma;Any cancer type	[]		Pre-clinical
+					CDKN2C		Glioma;Any cancer type	[]		Pre-clinical
+					CHEK2		Prostate adenocarcinoma	Olaparib		Early trials
+					CRLF2		Acute lymphoblastic leukemia	[]		Pre-clinical
+					CRLF2		Acute lymphoblastic leukemia	[]		Pre-clinical
+					CYP17A1		Prostate adenocarcinoma	Abiraterone	Approved	Early trials
+					CYP17A1		Prostate adenocarcinoma	Enzalutamide	Approved	Early trials
+					DPYD		Any cancer type	Capecitabine	Approved	FDA guidelines
+					DPYD		Any cancer type	Flourouracil	Approved	FDA guidelines
+					DPYD		Any cancer type	Tegafur	Approved	CPIC guidelines
+					MCL1		Any cancer type	[]		Pre-clinical
+					MET		Non-small cell lung;Colorectal adenocarcinoma	[]		Early trials
+					MET		Colorectal adenocarcinoma	[]		Early trials
+					MET;EGFR		Lung adenocarcinoma	[]		Early trials
+					MITF		Cutaneous melanoma	[]		Case report
+					MITF		Cutaneous melanoma	[]		Case report
+					MYCN		Medulloblastoma	[]		Pre-clinical
+					EGFR		Head an neck squamous	[]		Case report
+					EGFR		Colorectal adenocarcinoma	[]		Late trials
+					NF1		Neuroblastoma	[]		Pre-clinical
+					EGFR		Colorectal adenocarcinoma	Cetuximab	Approved	FDA guidelines
+					EGFR		Non-small cell lung	Erlotinib	Approved	Case report
+					EGFR		Lung	Erlotinib		Case report
+					PDGFRA		Glioma	[]		Pre-clinical
+					PIK3CA		Breast adenocarcinoma	[]		Pre-clinical
+					EGFR		Endometrium	Gefitinib	Approved	Late trials
+					PTEN		Colorectal adenocarcinoma	[]		Late trials
+					PTEN		Endometrium	[]		Early trials
+					PTEN;BRAF		Cutaneous melanoma	[]		Early trials
+					PTEN;BRAF		Cutaneous melanoma	[]		Early trials
+					EPHA2		Any cancer type	Dasatinib		Pre-clinical
+					EPHA2		Any cancer type	Dasatinib		Pre-clinical
+					EPHA3		Any cancer type	[]		Pre-clinical
+					EPHA3		Any cancer type	[]		Pre-clinical
+					PTEN;BRAF		Cutaneous melanoma	[]		Pre-clinical
+					PTEN;BRAF		Cutaneous melanoma	[]		Pre-clinical
+					ERBB2		Breast adenocarcinoma	[]		Pre-clinical
+					ERBB2		Breast adenocarcinoma	Ado-Trastuzumab Emtansine		FDA guidelines
+					ERBB2		Breast adenocarcinoma	Ado-Trastuzumab Emtansine	Approved	FDA guidelines
+					ERBB2		Stomach	Afatinib		Case report
+					ERBB2		Breast adenocarcinoma	Afatinib		Late trials
+					ERBB2		Bladder	Afatinib		Case report
+					ERBB2		Breast adenocarcinoma	Lapatinib		FDA guidelines
+					ERBB2		Billiary tract	Lapatinib		Early trials
+					RAC1;BRAF		Cutaneous melanoma	[]		Case report
+					ERBB2		Breast adenocarcinoma	Lapatinib	Approved	FDA guidelines
+					ERBB2		Stomach	Lapatinib;Chemotherapy		Early trials
+					ERBB2		Solid tumors	MK2206;Trastuzumab		Early trials
+					ERBB2		Breast adenocarcinoma	Neratinib		Late trials
+					RAC1;BRAF		Cutaneous melanoma	[]		Case report
+					RAF1;BRAF		Cutaneous melanoma	[]		Pre-clinical
+					ERBB2		Stomach	Pertuzumab		Early trials
+					ERBB2		Breast adenocarcinoma	Pertuzumab		FDA guidelines
+					ERBB2		Billiary tract	Pertuzumab		Early trials
+					ERBB2		Breast adenocarcinoma	Pertuzumab	Approved	FDA guidelines
+					ERBB2		Stomach;Gastroesophageal junction adenocarcinoma	Trastuzumab		FDA guidelines
+					ERBB2		Breast adenocarcinoma	Trastuzumab		FDA guidelines
+					ERBB2		Billiary tract	Trastuzumab		Early trials
+					ERBB2		Head an neck	Trastuzumab		Case report
+					ERBB2		Ovary	Trastuzumab		Early trials
+					ERBB2		Breast adenocarcinoma	Trastuzumab	Approved	FDA guidelines
+					ERBB2		Stomach;Gastroesophageal junction adenocarcinoma	Trastuzumab	Approved	FDA guidelines
+					ERBB2		Colorectal adenocarcinoma	Ado-Trastuzumab Emtansine		Case report
+					ERBB2		Breast adenocarcinoma	Trastuzumab;Everolimus;Chemotherapy		Early trials
+					ERBB2		Breast adenocarcinoma	Trastuzumab;HSP90 inhibitor		Early trials
+					ERBB2		Colorectal adenocarcinoma	Trastuzumab;Lapatinib		Late trials
+					ERBB2		Endometrium	Trastuzumab;Lapatinib		Pre-clinical
+					ERBB2;ESR1		Breast adenocarcinoma	[Tamoxifen,Letrozole,Anastrozole,Exemestane,Fulvestrant,LHRH analogues or antagonist]	Approved	FDA guidelines
+					ERBB2;ESR1		Breast adenocarcinoma	Abemaciclib		Early trials
+					ERBB2;ESR1		Breast adenocarcinoma	Everolimus	Approved	FDA guidelines
+					ERBB2;ESR1		Breast adenocarcinoma	Palbociclib	Approved	FDA guidelines
+					STK11;KRAS		Lung adenocarcinoma	[]		Early trials
+					STK11;KRAS		Lung adenocarcinoma	[]		Early trials
+					ERBB4		Lung adenocarcinoma	Lapatinib;Afatinib		Pre-clinical
+					ERCC1		Lung	[]		Pre-clinical
+					ERCC1		Lung	Cisplatin		Pre-clinical
+					EREG		Colorectal adenocarcinoma	[]		Early trials
+					ZBTB16		Prostate adenocarcinoma	[]		Pre-clinical
+					FANCA		Prostate adenocarcinoma	Olaparib		Case report
+					FANCC		Bladder	Cisplatin	Approved	Early trials
+					FBXW7		Colorectal adenocarcinoma	Sirolimus	Approved	Pre-clinical
+					FGF3		Breast adenocarcinoma	Dovitinib		Early trials
+					FGF3		Breast adenocarcinoma	Lucitanib	Clinical Trials	Early trials
+					FGF4		Breast adenocarcinoma	Dovitinib		Early trials
+					FGF4		Breast adenocarcinoma	Lucitanib	Clinical Trials	Early trials
+					FGFR1		Lung squamous cell	[]		Case report
+					FGFR1		Endometrium	[]		Case report
+					FGFR1		Lung squamous cell	[]		Early trials
+					FGFR1		Head an neck	[]		Pre-clinical
+					FGFR1		Breast adenocarcinoma	[Lucitanib]		Early trials
+					AR		Prostate adenocarcinoma	Abiraterone	Approved	Early trials
+					FGFR2		Billiary tract	[]		Early trials
+					FGFR2		Stomach	[]		Early trials
+					FGFR2		Breast adenocarcinoma	[]		Case report
+					EGFR		Colorectal adenocarcinoma	Panitumumab	Approved	FDA guidelines
+					FGFR2		Colorectal adenocarcinoma	[]		Early trials
+					FGFR3		Glioma	[]		Early trials
+					FGFR3		Bladder	[]		Case report
+					FGFR3		Non-small cell lung			Pre-clinical
+					FLCN		Thyroid	Everolimus		Case report
+					FLT1		Renal	Sunitinib	Approved	Pre-clinical
+					FLT1		Renal	Sunitinib	Approved	Pre-clinical
+					PTEN		Breast adenocarcinoma	BYL719	Clinical Trials	Case report
+					NF1		Plexiform neurofibroma	Cediranib		Early trials
+					FOXA1		Colorectal adenocarcinoma	[]		Pre-clinical
+					FRS2		Liposarcoma	[]		Pre-clinical
+					G6PD		Any cancer type	Dabrafenib	Approved	FDA guidelines
+					G6PD;G6PD		Any cancer type	Dabrafenib	Approved	FDA guidelines
+					HDAC2		Prostate adenocarcinoma	Olaparib		Case report
+					HGF		Urinary tract carcinoma	Cabozantinib	Approved	Pre-clinical
+					HIF1A		Renal	Sunitinib	Approved	Pre-clinical
+					IL7R;SH2B3		Acute lymphoblastic leukemia	[]		Pre-clinical
+					IL7R;SH2B3		Acute lymphoblastic leukemia	[]		Pre-clinical
+					IL7R;SH2B3		Acute lymphoblastic leukemia	Ruxolitinib		Pre-clinical
+					IL7R;SH2B3		Acute lymphoblastic leukemia	Ruxolitinib		Pre-clinical
+					INPP4B		Breast adenocarcinoma	[]		Pre-clinical
+					JAK2		Breast adenocarcinoma	[]		Pre-clinical
+					JAK2		Acute lymphoblastic leukemia	Ruxolitinib		Pre-clinical
+					PTEN		Colorectal adenocarcinoma	Cetuximab	Approved	Case report
+					ERCC1		Bladder	Cisplatin	Approved	Pre-clinical
+					MDM2		Male germ cell tumor	Cisplatin		Early trials
+					ALK		Non-small cell lung	Crizotinib	Approved	Clinical trials
+					ALK		Lung adenocarcinoma	Crizotinib		Case report
+					NF1		Lung	Dasatinib		Pre-clinical
+					EGFR		Lung	Erlotinib	Approved	Early trials
+					IGF1R		Lung adenocarcinoma	Erlotinib		Pre-clinical
+					NF1		Lung	Erlotinib		Pre-clinical
+					NF2		Schwannoma	Erlotinib		Early trials
+					NF2;EGFR		Lung	Erlotinib;Cetuximab		Case report
+					NF2;EGFR		Lung	Erlotinib;Cetuximab		Case report
+					NF1		Malignant peripheral nerve sheat tumor	Everolimus		Early trials
+					NF1		Malignant peripheral nerve sheat tumor	Everolimus;Bevacizumab		Early trials
+					MAP2K1;BRAF		Cutaneous melanoma	[]		Case report
+					NF1		Glioma	Everolimus;Erlotinib		Case report
+					MDM2		Liposarcoma	[]		Early trials
+					MDM4		Sarcoma	[]		Pre-clinical
+					EGFR		Head an neck	Gefitinib	Approved	Early trials
+					MET		Colorectal adenocarcinoma	[]		Pre-clinical
+					MET		Hepatic carcinoma	[]		Case report
+					MET		Stomach	[]		Pre-clinical
+					MET		Renal	[]		Early trials
+					MET		Colorectal adenocarcinoma	Cabozantinib;Panitumumab	Clinical Trials	Case report
+					MET		Glioma	Crizotinib		Case report
+					MET		Non-small cell lung	Crizotinib	Clinical Trials	Early trials
+					MET		Lung adenocarcinoma;Stomach	Crizotinib		Early trials
+					MET		Glioma	Crizotinib		Case report
+					MET;BRAF		Colorectal adenocarcinoma	Crizotinib;Vemurafenib		Case report
+					MET;ERBB2		Stomach	Crizotinib;Trastuzumab		Case report
+					MET;ERBB2		Stomach	Crizotinib;Trastuzumab		Case report
+					KIT		Cutaneous melanoma	Imatinib		Early trials
+					MKI67		Renal	Sunitinib	Approved	Pre-clinical
+					MLL		Acute myeloid leukemia	[]		Pre-clinical
+					MLL		Acute myeloid leukemia	Belinostat	Approved	Early trials
+					MLL		Acute myeloid leukemia	Daunorubicin	Approved	FDA guidelines
+					MLL		Acute myeloid leukemia;Acute lymphoblastic leukemia;Myelodisplasic syndrome	EPZ-5676	Clinical Trials	Early trials
+					MYC		Myeloma;Neuroblastoma	[]		Pre-clinical
+					MYC		Neuroblastoma	[]		Pre-clinical
+					MYC		Neuroblastoma	[]		Pre-clinical
+					MYC		Prostate adenocarcinoma	[]		Pre-clinical
+					MYC		Colorectal adenocarcinoma	Temozolomide		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Glioma;Leukemia	[]		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	[]		Pre-clinical
+					NF1		Glioma;Malignant peripheral nerve sheat tumor;Leukemia	[]		Pre-clinical
+					NF1		Cutaneous melanoma	[]		Pre-clinical
+					NF1		Cutaneous melanoma	[]		Early trials
+					NF1		Glioma	Bevacizumab		Case report
+					MET;ERBB2		Stomach	Lapatinib		Pre-clinical
+					CRBN		Myeloma	Lenalidomide		Case report
+					NF1		Head an neck;Salivary glands	Everolimus		Case report
+					LRP1B		Ovary	Liposomal Doxorubicin		Early trials
+					STK11;KRAS		Lung adenocarcinoma	MEK inhibitor;Docetaxel		Pre-clinical
+					STK11;KRAS		Lung adenocarcinoma	MEK inhibitor;Docetaxel		Pre-clinical
+					NF1		Plexiform neurofibroma	Imatinib		Early trials
+					NF1		Plexiform neurofibroma;Malignant peripheral nerve sheat tumor	Nilotinib		Pre-clinical
+					NF1		Plexiform neurofibroma	PLX3397		Pre-clinical
+					NF1		Plexiform neurofibroma	Selumetinib		Early trials
+					NF1		Plexiform neurofibroma	Sirolimus		Early trials
+					NF1		Glioma	Sirolimus;Erlotinib		Case report
+					NF1		Malignant peripheral nerve sheat tumor	Sorafenib;Sirolimus		Pre-clinical
+					NF1		Malignant peripheral nerve sheat tumor	Tamoxifen		Pre-clinical
+					NF1		Glioma	Trametinib		Case report
+					NF1		Cutaneous melanoma	Trametinib		Pre-clinical
+					NF1		Glioma	Vinblastine		Early trials
+					NF1		Glioma	Vinblastine;Nilotinib		Case report
+					ERBB2		Lung adenocarcinoma	Osimertinib	Approved	Case report
+					MET		Lung adenocarcinoma	Osimertinib	Approved	Case report
+					TUBB3		Bladder	Paclitaxel		Pre-clinical
+					CCND1		Lung	Palbociclib		Early trials
+					CDK4		Lung	Palbociclib		Early trials
+					NF2		Mesothelioma	[]		Early trials
+					NF2		Mesothelioma;Ovary	[]		Pre-clinical
+					NF2		Meningioma	[]		Pre-clinical
+					NF2		Thyroid	[]		Pre-clinical
+					NF2		Meningioma	[]		Pre-clinical
+					NF2		Schwannoma;Meningioma	[]		Pre-clinical
+					NF2		Schwannoma	[]		Pre-clinical
+					NF2		Schwannoma	AR42		Pre-clinical
+					NF2		Meningioma	AR42		Early trials
+					NF2		Schwannoma	Bevacizumab		Early trials
+					NF2		Schwannoma	Everolimus		Early trials
+					NF2		Meningioma	Everolimus;Octreotide		Pre-clinical
+					NF2		Schwannoma	Imatinib		Pre-clinical
+					NF2		Schwannoma;Neurofibroma	Lapatinib		Early trials
+					NF2		Breast adenocarcinoma	Tensirolimus;Chemotherapy		Case report
+					NOTCH1		Acute lymphoblastic leukemia	[]		Pre-clinical
+					NOTCH1		Breast adenocarcinoma	[]		Pre-clinical
+					NOTCH2		Breast adenocarcinoma	[]		Pre-clinical
+					PTEN		Colorectal adenocarcinoma	Panitumumab		Case report
+					CRBN		Myeloma	Pomalidomide		Case report
+					NRG1		Lung adenocarcinoma	Afatinib		Case report
+					NRG1		Lung adenocarcinoma	Lapatinib		Pre-clinical
+					NTRK1		Lung adenocarcinoma	[]		Pre-clinical
+					NTRK1		Any cancer type	[]		Early trials
+					NTRK1		Colorectal adenocarcinoma	[Entrectinib]		Case report
+					NTRK1		Lung adenocarcinoma	Crizotinib		Case report
+					NTRK3		Breast adenocarcinoma	[]		Pre-clinical
+					NTRK3		Breast adenocarcinoma	[]		Pre-clinical
+					NTRK3		Breast adenocarcinoma	Midostaurin		Pre-clinical
+					PAK1		Cutaneous melanoma	[]		Pre-clinical
+					PALB2		Prostate adenocarcinoma	[]		Early trials
+					PALB2		Pancreas	[]		Pre-clinical
+					PALB2		Pancreas	Mytomycin C		Case report
+					PALB2		Pancreas	Platinum Agent		Case report
+					PBRM1		Any cancer type	[]		Pre-clinical
+					PBRM1		Renal	Everolimus	Approved	Pre-clinical
+					PDGFRA		Myelodisplasic syndrome;Myelodisplasic proliferative syndrome	Imatinib	Approved	FDA guidelines
+					PDGFRA		Hyper eosinophilic advanced snydrome;Eosinophilic chronic leukemia	Imatinib	Approved	FDA guidelines
+					PDGFRA		Renal	Sunitinib	Approved	Pre-clinical
+					PDGFB		Dermatofibrosarcoma	Imatinib	Approved	FDA guidelines
+					PDPK1		Breast adenocarcinoma	[]		Pre-clinical
+					ERBB2		Lung adenocarcinoma	Rociletinib		Case report
+					MET		Lung adenocarcinoma	Rociletinib		Case report
+					NF1;BRAF		Cutaneous melanoma	Selumetinib		Case report
+					PIK3CA;ERBB2		Breast adenocarcinoma	Everolimus;Trastuzumab;Chemotherapy		Late trials
+					NF1;BRAF		Cutaneous melanoma	Selumetinib		Case report
+					PML		Acute promyelocytic leukemia	Tretinoin	Approved	FDA guidelines
+					PML		Acute myeloid leukemia	Tretinoin;Arsenic Trioxide	Approved	FDA guidelines
+					PML		Acute myeloid leukemia	Volasertib	Clinical Trials	Early trials
+					PRKCH;ABL1		Chronic myeloid leukemia	Trametinib;Imatinib		Pre-clinical
+					PTEN		Pancreas	[]		Case report
+					PTEN		Endometrium	[]		Case report
+					PTEN		Cutaneous melanoma	[]		Early trials
+					PTEN		Prostate adenocarcinoma	[]		Pre-clinical
+					PTEN		Ovary	[]		Pre-clinical
+					PTEN		Thyroid;Glioma;Lung;Ovary;Breast adenocarcinoma;Any cancer type;Endometrium	[]		Pre-clinical
+					PTEN		Prostate adenocarcinoma	[]		Case report
+					PTEN		Prostate adenocarcinoma	Everolimus		Early trials
+					PTEN		Any cancer type	Sirolimus		Early trials
+					KIT		Cutaneous melanoma	Sunitinib		Early trials
+					PTEN;ERBB2		Breast adenocarcinoma	Everolimus;Trastuzumab;Chemotherapy		Late trials
+					NF1		Plexiform neurofibroma	Tipifarnib		Early trials
+					RAD50;ATM		Any cancer type	Irinotecan;CHK1/2 inhibitor		Case report
+					RAF1		Prostate adenocarcinoma	[]	Pre-clinical	Pre-clinical
+					RAF1		Prostate adenocarcinoma	Sorafenib		Pre-clinical
+					RAF1		Osteosarcoma	Sorafenib		Pre-clinical
+					RAF1		Prostate adenocarcinoma	U0126	Approved	Pre-clinical
+					NF1		Osteosarcoma	Trametinib		Case report
+					RB1		Retinoblastoma	[]		Pre-clinical
+					RB1		Retinoblastoma	[]		Pre-clinical
+					RB1		Bladder	Cisplatin	Approved	Early trials
+					RB1		Prostate adenocarcinoma	Palbociclib	Pre-clinical	Pre-clinical
+					RET		Lung adenocarcinoma	[]		Pre-clinical
+					RET		Thyroid	[]		Pre-clinical
+					RET		Lung adenocarcinoma	Cabozantinib		Early trials
+					RET		Thyroid carcinoma	Cabozantinib		Pre-clinical
+					RET		Lung adenocarcinoma	Nintedanib		Case report
+					ARID1A;ANXA1		Breast adenocarcinoma	Trastuzumab	FDA approved	Early trials
+					RET		Lung adenocarcinoma	Sunitinib		Early trials
+					RET		Thyroid carcinoma	Sunitinib		Pre-clinical
+					RET		Lung adenocarcinoma	Vandetanib		Early trials
+					RET		Thyroid carcinoma	Vandetanib		Pre-clinical
+					RICTOR		Lung	[]		Case report
+					ROS1		Lung adenocarcinoma	[]		Pre-clinical
+					ROS1		Lung adenocarcinoma	Cabozantinib		Case report
+					ARID1A;ANXA1		Breast adenocarcinoma	Trastuzumab	FDA approved	Early trials
+					ROS1		Inflammatory myofibroblastic	Crizotinib		Case report
+					ROS1		Lung adenocarcinoma	Crizotinib		Early trials
+					ROS1		Non-small cell lung	Crizotinib	Clinical trials	FDA guidelines
+					ERBB2		Endometrium	Trastuzumab		Early trials
+					HGF;ERBB2		Breast adenocarcinoma	Trastuzumab		Early trials
+					SETD2		Any cancer type	[]		Pre-clinical
+					SH2B3		Myelodisplasic proliferative syndrome	[]		Pre-clinical
+					MET;ERBB2		Breast adenocarcinoma	Trastuzumab		Early trials
+					SLC44A4		Prostate adenocarcinoma;Pancreas adenocarcinoma	[]		Pre-clinical
+					SMARCA4		Ovary	[]		Case report
+					SMARCB1		Malignant rhabdoid tumor	[]		Case report
+					SMARCB1		Malignant rhabdoid tumor	[]	Clinical Trials	Early trials
+					MET;ERBB2		Breast adenocarcinoma;Stomach	Trastuzumab		Early trials
+					STK11		Lung adenocarcinoma	[]		Pre-clinical
+					STK11		Any cancer type	[]		Pre-clinical
+					STK11		Lung adenocarcinoma	[]		Pre-clinical
+					STK11		Lung adenocarcinoma	Phenformin		Pre-clinical
+					NF1		Cutaneous melanoma	Vemurafenib		Pre-clinical
+					SUZ12		Any cancer type	[]		Pre-clinical
+					SYK		Mantle cell lymphoma;Chronic lymphocytic leukemia	[]		Pre-clinical
+					TMPRSS2		Prostate adenocarcinoma	[]		Pre-clinical
+					TMPRSS2		Prostate adenocarcinoma	[]		Pre-clinical
+					TOP2A		Breast adenocarcinoma	Anthracyclines		Late trials
+					NF1;BRAF		Cutaneous melanoma	Vemurafenib		Case report
+					NF1;BRAF		Cutaneous melanoma	Vemurafenib		Case report
+					TP53		B cell lymphoma	AZD6738	Clinical Trials	Early trials
+					TP53		Thymic	Pramlintide		Pre-clinical
+					TPMT		Any cancer type	Cisplatin	Approved	FDA guidelines
+					TPMT		Any cancer type	Mercaptopurine	Approved	FDA guidelines
+					TPMT		Any cancer type	Thioguanine	Approved	FDA guidelines
+					MET;BRAF		Colorectal adenocarcinoma	Vemurafenib;Panitumumab		Case report
+					TSC1		Renal	Everolimus		Case report
+					TSC2		Lymphangioleiomyomatosis	[]		Pre-clinical
+					UGT1A1		Any cancer type	Irinotecan	Approved	FDA guidelines
+					UGT1A1		Any cancer type	Nilotinib	Approved	FDA guidelines
+					UGT1A1		Any cancer type	Pazopanib	Approved	FDA guidelines
+					VEGFA		Hepatic carcinoma	Sorafenib		Early trials
